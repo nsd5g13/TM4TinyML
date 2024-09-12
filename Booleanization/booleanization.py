@@ -20,7 +20,7 @@ for dataset in all_datasets:
 		# ------------- IRIS ----------------------------------------------------
 		case "iris":
 			iris = datasets.load_iris()
-			X = preprocessing.onehot_encoding(iris.data, 3)
+			X, _ = preprocessing.onehot_encoding(iris.data, 3)
 			Y = iris.target
 			X_train, Y_train, X_test, Y_test = preprocessing.DatasetSplit(X, Y, 0.8)
 
@@ -34,7 +34,7 @@ for dataset in all_datasets:
 		# --------------- EMG ------------------------------------------------
 		case "emg":
 			PoolingWindow = 100
-			PoolingMethod = 'rms'
+			PoolingMethod = 'max'
 			SlidingWinLen = 12
 			Stride = 3
 
@@ -57,7 +57,7 @@ for dataset in all_datasets:
 			Y_relabelled = preprocessing.EMG_relabel(X_Class0, X_notClass0, Y_notClass0)
 			X = np.concatenate((X_Class0, X_notClass0), axis=0)
 			Y = np.concatenate((Y_relabelled, Y_notClass0), axis=0)
-		
+			
 			X_train, Y_train, X_test, Y_test = preprocessing.DatasetSplit(X, Y, 0.8)
 
 		# --------------- Sports ------------------------------------------------

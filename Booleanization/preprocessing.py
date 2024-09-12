@@ -165,7 +165,7 @@ def Sports_load(dataset_file_path):
 
 # -- load Human Activity dataset ---------------------------------------------------------
 def HAR_load(dataset_file_path):
-	TrainOrTest = dataset_file_path.split('/')[1]
+	TrainOrTest = dataset_file_path.split('/')[2]
 	file_name = dataset_file_path + '/X_' + TrainOrTest + '.txt'
 	f = open(file_name ,'r')
 	X_lines = f.readlines()
@@ -232,7 +232,7 @@ def Gas_load(dataset_file_path):
 
 		for each_line in lines[1:]:
 			features_label = each_line.replace('\n', '').split()
-			label = int(features_label[-1])-1
+			label = int(features_label[0])-1
 			all_labels.append(label)
 			features = [float(x.split(":")[1]) for x in features_label[1:]]
 			all_features.append(features)
@@ -427,7 +427,7 @@ def DatasetSplit(X, Y, TrainingSetRatio):
 
 	X_test = []
 	Y_test = []
-	for each in n[int(len(Y)*0.8):]:
+	for each in n[int(len(Y)*TrainingSetRatio):]:
 		X_test.append(X[each])
 		Y_test.append(Y[each])
 
