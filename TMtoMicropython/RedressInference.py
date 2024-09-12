@@ -1,29 +1,31 @@
 import time, machine, gc
 
-W = 1
+W = 20
 
 machine.freq(200000000) # set clock frequency as 200MHz
 
 # W datapoints for each inference
-datapoint_file = 'redress/mnist_vanilla/X_test.txt'
+datapoint_file = 'redress/statlog_diet/X.txt'
 f = open(datapoint_file)
 datapoints = f.readlines()
-for i in range(len(datapoints)):
-	datapoints[i] = datapoints[i].replace("0.000000000000000000e+00","0")
-	datapoints[i] = datapoints[i].replace("1.000000000000000000e+00","1")
-	datapoints[i] = datapoints[i].replace(" ", "")
 number_of_features = len(datapoints[0])-1	# number of features, f
 W_datapoints = []
+
 for i in range(int(len(datapoints)/W)):
-	W_dps = ''
+	W_dps = []
 	for j in range(W):
-		W_dps = W_dps + datapoints[i*W+j].replace('\n', '')
+		literals = datapoints[i*W+j].replace('\n', '')
+		#literals = bin(int(''.join(map(str, literals)), 2))
+		#literals = '{:0>{w}}'.format(literals, w=number_of_features)
+		W_dps.append(literals)
 	W_datapoints.append(W_dps)
 f.close()
-W_datapoints = W_datapoints[0:2] # number of test samples 
+W_datapoints = W_datapoints[0:1] # number of test samples
+
+dataset_mem = gc.mem_alloc()
 
 # number of includes for each class
-includes_classes_file = 'redress/mnist_vanilla/no_includes.txt'
+includes_classes_file = 'redress/statlog_diet/no_includes.txt'
 f = open(includes_classes_file)
 includes = f.readlines()
 number_of_classes = len(includes)	# number of classes, M
@@ -33,7 +35,7 @@ for each in includes:
 f.close()
 
 # redress include codes
-encode_file = 'redress/mnist_vanilla/encoded_include.txt'
+encode_file = 'redress/statlog_diet/encoded_include.txt'
 f = open(encode_file)
 codes = f.readlines()
 IncEncs = []
@@ -48,6 +50,7 @@ f.close()
 inferred_class = []
 # W inferences simultaneously
 for datapoints in W_datapoints:
+	gc.collect()
 	start_time = time.time_ns()
 	# initialization
 	cur_class_sum = [0 for i in range(W)]
@@ -55,6 +58,7 @@ for datapoints in W_datapoints:
 
 	# inference
 	for i in range(number_of_classes):
+		gc.collect()
 		cl_output = [1 for j in range(W)]
 		prev_cl = 1
 		cl_polarity = 0
@@ -76,9 +80,9 @@ for datapoints in W_datapoints:
 
 			# compute clause output
 			if literal_polarity == 0:
-				features_in_datapoints = [int(datapoints[number_of_features*j+feature_offset]) for j in range(W)]
+				features_in_datapoints = [int(datapoints[j][feature_offset]) for j in range(W)]
 			else:
-				features_in_datapoints = [1-int(datapoints[number_of_features*j+feature_offset]) for j in range(W)]
+				features_in_datapoints = [1-int(datapoints[j][feature_offset]) for j in range(W)]
 			cl_output = [output*feature for output, feature in zip(cl_output, features_in_datapoints)]
 
 		# argmax
@@ -96,4 +100,5 @@ for datapoints in W_datapoints:
 		
 	inferred_class.extend(classification)
 
-print("Allocated memory: %d Byte" %gc.mem_alloc())
+gc.collect()
+print("Allocated memory: %d Byte" %(gc.mem_alloc()-dataset_mem))
