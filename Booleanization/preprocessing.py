@@ -176,7 +176,8 @@ def HAR_load(dataset_file_path):
 	y_lines = f.readlines()
 	f.close()		
 
-	utilized_feature_indices = [0, 1, 2, 9, 10, 11, 40, 41, 42]
+	#utilized_feature_indices = [0, 1, 2, 9, 10, 11, 40, 41, 42]
+	utilized_feature_indices = [i for i in range(560)]
 
 	all_features = []
 	all_labels = []

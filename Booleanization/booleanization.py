@@ -34,8 +34,8 @@ for dataset in all_datasets:
 		# --------------- EMG ------------------------------------------------
 		case "emg":
 			PoolingWindow = 100
-			PoolingMethod = 'max'
-			SlidingWinLen = 12
+			PoolingMethod = 'rms'
+			SlidingWinLen = 20
 			Stride = 3
 
 			print('Loading EMG dataset from given path:')
@@ -84,7 +84,7 @@ for dataset in all_datasets:
 			X_test = np.array(X_test)
 			X = np.concatenate((X_train, X_test), axis=0)
 			
-			X, _ = preprocessing.onehot_encoding(X, 11)
+			X, _ = preprocessing.onehot_encoding(X, 2)
 			X_train = X[:len(Y_train)]
 			X_test = X[len(Y_train):]
 
@@ -109,7 +109,7 @@ for dataset in all_datasets:
 			X, Y = preprocessing.Statlog_load(r'TinyML_raw_dataset/Statlog')
 			X = np.array(X)
 			Y = np.array(Y)
-			X = preprocessing.thermo_encoding(X, 16)
+			X = preprocessing.thermo_encoding(X, 20)
 			X_train, Y_train, X_test, Y_test = preprocessing.DatasetSplit(X, Y, 0.8)
 
 		# --------------- Mammographic Mass ------------------------------------------------
