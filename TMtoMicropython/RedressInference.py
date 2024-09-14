@@ -5,7 +5,7 @@ W = 20
 machine.freq(200000000) # set clock frequency as 200MHz
 
 # W datapoints for each inference
-datapoint_file = 'redress/statlog_diet/X.txt'
+datapoint_file = 'redress/statlog_vanilla/X.txt'
 f = open(datapoint_file)
 datapoints = f.readlines()
 number_of_features = len(datapoints[0])-1	# number of features, f
@@ -25,7 +25,7 @@ W_datapoints = W_datapoints[0:1] # number of test samples
 dataset_mem = gc.mem_alloc()
 
 # number of includes for each class
-includes_classes_file = 'redress/statlog_diet/no_includes.txt'
+includes_classes_file = 'redress/statlog_vanilla/no_includes.txt'
 f = open(includes_classes_file)
 includes = f.readlines()
 number_of_classes = len(includes)	# number of classes, M
@@ -35,7 +35,7 @@ for each in includes:
 f.close()
 
 # redress include codes
-encode_file = 'redress/statlog_diet/encoded_include.txt'
+encode_file = 'redress/statlog_vanilla/encoded_include.txt'
 f = open(encode_file)
 codes = f.readlines()
 IncEncs = []
@@ -100,5 +100,5 @@ for datapoints in W_datapoints:
 		
 	inferred_class.extend(classification)
 
-gc.collect()
+#gc.collect()
 print("Allocated memory: %d Byte" %(gc.mem_alloc()-dataset_mem))
