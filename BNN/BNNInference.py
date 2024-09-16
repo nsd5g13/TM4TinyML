@@ -129,10 +129,10 @@ def add1d(x, y):
 all_samples = read_samples(r'redress/statlog_bnn/X.txt')
 weights0 = read_weights(r'redress/statlog_bnn/weights0.txt')
 weights1 = read_weights(r'redress/statlog_bnn/weights1.txt')
-W = 10
-no_iterations = len(all_samples[0:10])//W
+gc.collect()
+W = 20
+no_iterations = len(all_samples[0:40])//W
 for i in range(no_iterations):
-	gc.collect()
 	start_time = time.time_ns()
 	samples = all_samples[i*W:(i+1)*W]
 	yout1 = dense(len(weights0), samples, weights0, 'ste_sign', True)
@@ -146,6 +146,7 @@ for i in range(no_iterations):
 	end_time = time.time_ns()
 	print("In %.2f seconds, predicted class:" %((end_time-start_time)/1000000000))
 	print(labels)
+	gc.collect()
 
 print("Allocated memory: %d Byte" %gc.mem_alloc())
 

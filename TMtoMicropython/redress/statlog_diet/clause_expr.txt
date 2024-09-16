@@ -1,0 +1,2416 @@
+
+Class 0 Positive Clauses:
+Clause #0: 
+ x114 & ~x161
+Clause #2: 
+ x179 &  x262 &  x273 &  x292 & ~x82 & ~x137 & ~x170 & ~x172 & ~x175 & ~x178 & ~x206 & ~x233 & ~x303 & ~x308 & ~x345
+Clause #4: 
+~x178
+Clause #6: 
+ x109 &  x112 &  x191 &  x192 & ~x126
+Clause #8: 
+ x17 &  x90 &  x111 &  x113 &  x194
+Clause #10: 
+ x17 & ~x178
+Clause #12: 
+ x75 &  x117 &  x151 &  x191 &  x197 &  x337 &  x339 &  x347 &  x356 & ~x44 & ~x63 & ~x129 & ~x208
+Clause #14: 
+ x59 &  x219 &  x268 &  x272 & ~x127 & ~x178 & ~x220 & ~x245
+Clause #16: 
+ x109
+Clause #18: 
+ x190 & ~x125 & ~x245
+Clause #20: 
+ x191
+Clause #22: 
+ x190
+Clause #24: 
+ x50
+Clause #26: 
+ x18 &  x116 &  x150 &  x152 & ~x177 & ~x244 & ~x304
+Clause #28: 
+ x108
+Clause #30: 
+ x88 &  x90 &  x111 &  x112 &  x114 &  x195
+Clause #32: 
+ x18 & ~x175 & ~x178 & ~x302
+Clause #34: 
+ x19 &  x76 &  x139 &  x153 &  x157 &  x199 & ~x4 & ~x20 & ~x69 & ~x103 & ~x122 & ~x123 & ~x130 & ~x131 & ~x133 & ~x134 & ~x164 & ~x167 & ~x181 & ~x201 & ~x203 & ~x211 & ~x220 & ~x221 & ~x229 & ~x246 & ~x253 & ~x254 & ~x256 & ~x280 & ~x281
+Clause #36: 
+ x79 &  x94 &  x117 &  x179 & ~x3 & ~x5 & ~x24 & ~x29 & ~x30 & ~x46 & ~x48 & ~x61 & ~x71 & ~x172 & ~x222 & ~x286
+Clause #38: 
+ x90 &  x112 &  x116
+Clause #40: 
+ x148 &  x276 & ~x72 & ~x95 & ~x96 & ~x343
+Clause #42: 
+ x94 &  x117 &  x196 &  x332 &  x335 & ~x41 & ~x66 & ~x244
+Clause #44: 
+ x195 &  x198 &  x269 & ~x96 & ~x281
+Clause #46: 
+ x198 &  x323
+Clause #48: 
+ x75 & ~x312
+Clause #50: 
+~x235
+Clause #52: 
+ x145 &  x196 &  x332 &  x359 & ~x42 & ~x45 & ~x46 & ~x62 & ~x87 & ~x102 & ~x120 & ~x122 & ~x124 & ~x126 & ~x127 & ~x163 & ~x164 & ~x206 & ~x213 & ~x220 & ~x232 & ~x280 & ~x282 & ~x300 & ~x304
+Clause #54: 
+ x93 &  x94 &  x117 &  x195 &  x198 & ~x7 & ~x44 & ~x135 & ~x175 & ~x207 & ~x245
+Clause #56: 
+ x52 &  x112 &  x113 &  x189 & ~x284
+Clause #58: 
+ x142 &  x262 & ~x137 & ~x245 & ~x328
+Clause #60: 
+ x114 &  x117 &  x351
+Clause #62: 
+ x17 &  x37 &  x158 &  x195 &  x197 & ~x227 & ~x327
+Clause #64: 
+ x112 &  x113
+Clause #66: 
+ x109 &  x117 & ~x128 & ~x342
+Clause #68: 
+ x298 & ~x54 & ~x96 & ~x135
+Clause #70: 
+ x51 &  x114 & ~x228
+Clause #72: 
+ x59 &  x139 &  x151 &  x154 &  x197 & ~x43 & ~x63 & ~x81 & ~x83 & ~x163 & ~x203 & ~x221 & ~x244 & ~x260 & ~x280 & ~x281 & ~x323 & ~x345
+Clause #74: 
+~x199
+Clause #76: 
+~x77 & ~x238 & ~x328 & ~x330
+Clause #78: 
+ x119 &  x148 & ~x5 & ~x23 & ~x33 & ~x43 & ~x51 & ~x55 & ~x72 & ~x73 & ~x81 & ~x87 & ~x89 & ~x108 & ~x114 & ~x136 & ~x137 & ~x162 & ~x175 & ~x176 & ~x207 & ~x220 & ~x222 & ~x235 & ~x236 & ~x245 & ~x281 & ~x283
+Clause #80: 
+ x110
+Clause #82: 
+ x92 &  x336 &  x346 & ~x30 & ~x102 & ~x240
+Clause #84: 
+ x142 &  x199 & ~x55 & ~x172 & ~x173 & ~x175 & ~x176 & ~x245 & ~x304
+Clause #86: 
+ x198 &  x265 & ~x95 & ~x333
+Clause #88: 
+ x108
+Clause #90: 
+ x107
+Clause #92: 
+ x143 & ~x295
+Clause #94: 
+ x59 &  x99 &  x116 &  x147 &  x151 &  x199 &  x329 &  x339 & ~x5 & ~x26 & ~x36 & ~x41 & ~x46 & ~x47 & ~x54 & ~x61 & ~x66 & ~x84 & ~x102 & ~x125 & ~x161 & ~x162 & ~x169 & ~x180 & ~x181 & ~x183 & ~x202 & ~x206 & ~x207 & ~x229 & ~x235 & ~x240 & ~x251 & ~x257 & ~x262 & ~x264 & ~x282 & ~x300 & ~x301
+Clause #96: 
+ x191 &  x196 &  x197 &  x198 &  x271 &  x278 &  x279 &  x358 & ~x69 & ~x81
+Clause #98: 
+ x112 &  x271 &  x275 & ~x45 & ~x168
+Clause #100: 
+~x89 & ~x178 & ~x281
+Clause #102: 
+ x59 &  x143 &  x199 &  x278 & ~x5 & ~x33 & ~x48 & ~x54 & ~x55 & ~x136 & ~x175 & ~x181 & ~x216 & ~x220 & ~x223 & ~x281 & ~x300
+Clause #104: 
+ x94 &  x111 &  x112 &  x113 &  x114 &  x150 &  x157 &  x235 &  x352 &  x353 & ~x25 & ~x126 & ~x127 & ~x182 & ~x208 & ~x223 & ~x224 & ~x301 & ~x302 & ~x303 & ~x323 & ~x343
+Clause #106: 
+ x192
+Clause #108: 
+~x147
+Clause #110: 
+ x117 &  x272 &  x337
+Clause #112: 
+~x54 & ~x55
+Clause #114: 
+~x55 & ~x92 & ~x176 & ~x245
+Clause #116: 
+ x148 &  x150 &  x194 & ~x41 & ~x52 & ~x53 & ~x176 & ~x177
+Clause #118: 
+ x141 & ~x95 & ~x281
+Clause #120: 
+
+Clause #122: 
+ x113
+Clause #124: 
+ x17 &  x152 & ~x54 & ~x175 & ~x304
+Clause #126: 
+~x73 & ~x175 & ~x284
+Clause #128: 
+~x98
+Clause #130: 
+ x53 &  x58 &  x113 &  x151 &  x216 &  x238 &  x277 & ~x225 & ~x229 & ~x244 & ~x325
+Clause #132: 
+ x115
+Clause #134: 
+ x111 &  x116 &  x272 &  x355 & ~x328
+Clause #136: 
+ x21
+Clause #138: 
+ x109
+Clause #140: 
+ x142 &  x272 & ~x31 & ~x77 & ~x81 & ~x136 & ~x301
+Clause #142: 
+~x218
+Clause #144: 
+ x12 &  x16 & ~x281 & ~x305
+Clause #146: 
+ x108
+Clause #148: 
+ x89 &  x113 &  x114
+Clause #150: 
+ x321 &  x351 & ~x216
+Clause #152: 
+ x112 &  x148
+Clause #154: 
+ x59 &  x191 &  x192 & ~x4
+Clause #156: 
+ x266 & ~x214
+Clause #158: 
+ x17 &  x94 & ~x70 & ~x81 & ~x175 & ~x217 & ~x281 & ~x285
+Clause #160: 
+ x18 &  x150 & ~x137
+Clause #162: 
+ x112 &  x195 & ~x165 & ~x168 & ~x245
+Clause #164: 
+ x141 &  x145 &  x148 &  x151 &  x270 & ~x54 & ~x77 & ~x137 & ~x175 & ~x217 & ~x218 & ~x225 & ~x232 & ~x237
+Clause #166: 
+ x93 &  x117 &  x147 &  x148 &  x149 &  x151 &  x179 &  x335 & ~x4 & ~x22 & ~x24 & ~x66 & ~x81 & ~x86 & ~x125 & ~x171 & ~x208 & ~x228 & ~x242 & ~x262 & ~x305 & ~x308
+Clause #168: 
+ x109 &  x235 &  x357 & ~x25 & ~x245
+Clause #170: 
+~x57 & ~x234 & ~x314
+Clause #172: 
+ x119 &  x149 & ~x5 & ~x55 & ~x72 & ~x176 & ~x181 & ~x207 & ~x281 & ~x301
+Clause #174: 
+ x141 & ~x137
+Clause #176: 
+ x195 & ~x77 & ~x352
+Clause #178: 
+ x156 & ~x356
+Clause #180: 
+ x19 &  x59 &  x119 &  x144 &  x159 &  x198 &  x344 &  x345 & ~x27 & ~x42 & ~x45 & ~x48 & ~x60 & ~x69 & ~x81 & ~x132 & ~x133 & ~x161 & ~x172 & ~x173 & ~x177 & ~x180 & ~x181 & ~x211 & ~x212 & ~x229 & ~x247 & ~x251 & ~x271 & ~x300
+Clause #182: 
+~x175 & ~x256
+Clause #184: 
+ x37 &  x149 &  x150 &  x154 &  x198 & ~x65 & ~x125 & ~x136 & ~x172 & ~x206 & ~x250 & ~x300 & ~x341
+Clause #186: 
+ x83
+Clause #188: 
+ x344 & ~x270 & ~x275 & ~x281
+Clause #190: 
+ x141 &  x143 &  x319 & ~x72 & ~x137 & ~x162
+Clause #192: 
+
+Clause #194: 
+ x140 & ~x175 & ~x238
+Clause #196: 
+ x290
+Clause #198: 
+ x18 &  x94 &  x145 &  x198 &  x336 & ~x6 & ~x7 & ~x28 & ~x46 & ~x69 & ~x71 & ~x72 & ~x73 & ~x169 & ~x175 & ~x181 & ~x222 & ~x246 & ~x281 & ~x300
+Clause #200: 
+ x18 &  x152 &  x159 &  x199 &  x264 &  x266 &  x271 &  x298 & ~x0 & ~x20 & ~x42 & ~x44 & ~x65 & ~x71 & ~x74 & ~x91 & ~x121 & ~x122 & ~x123 & ~x125 & ~x126 & ~x160 & ~x162 & ~x165 & ~x168 & ~x220 & ~x221 & ~x226 & ~x243 & ~x320 & ~x323 & ~x325 & ~x327 & ~x328 & ~x345 & ~x349
+Clause #202: 
+ x106 &  x195
+Clause #204: 
+ x193 &  x197 & ~x181 & ~x228
+Clause #206: 
+ x188
+Clause #208: 
+ x110
+Clause #210: 
+ x94
+Clause #212: 
+~x25 & ~x118 & ~x303 & ~x310
+Clause #214: 
+~x78
+Clause #216: 
+ x12 &  x191 &  x197 &  x217 & ~x245
+Clause #218: 
+~x118 & ~x238
+Clause #220: 
+ x112 &  x113 &  x191 &  x299 & ~x262 & ~x281
+Clause #222: 
+ x15 &  x99 &  x150 &  x198 &  x272 &  x277 &  x336 &  x358 & ~x3 & ~x20 & ~x63 & ~x71 & ~x163 & ~x205 & ~x244 & ~x283 & ~x284
+Clause #224: 
+ x148 & ~x54 & ~x86 & ~x136 & ~x302
+Clause #226: 
+ x109
+Clause #228: 
+ x93 &  x143 &  x351
+Clause #230: 
+ x108 &  x110
+Clause #232: 
+ x89 &  x112 & ~x45 & ~x246 & ~x345
+Clause #234: 
+ x113 & ~x223
+Clause #236: 
+~x55 & ~x126 & ~x175
+Clause #238: 
+~x96
+Clause #240: 
+ x112 &  x113 &  x157 &  x179 &  x192 &  x357 & ~x229
+Clause #242: 
+ x141 & ~x178 & ~x253
+Clause #244: 
+ x17 &  x58 &  x94 & ~x133 & ~x284
+Clause #246: 
+ x52 &  x53 &  x111 &  x197
+Clause #248: 
+ x141 & ~x136
+Clause #250: 
+ x93 &  x117 &  x144 &  x151 &  x155 &  x197 &  x330 & ~x54 & ~x172 & ~x176 & ~x186 & ~x211 & ~x220 & ~x224
+Clause #252: 
+ x53 &  x111 & ~x169 & ~x326
+Clause #254: 
+ x184 &  x198
+Clause #256: 
+ x18 &  x59 &  x75 &  x117 &  x219 &  x299 &  x336 &  x357 & ~x8 & ~x24 & ~x67 & ~x68 & ~x81 & ~x126 & ~x165 & ~x173 & ~x181 & ~x183 & ~x200 & ~x207 & ~x221 & ~x234 & ~x245 & ~x250 & ~x301
+Clause #258: 
+ x191
+Clause #260: 
+ x195
+Clause #262: 
+ x89 &  x113 &  x114 &  x193 &  x194 &  x195 &  x278
+Clause #264: 
+ x110
+Clause #266: 
+ x94 &  x307
+Clause #268: 
+ x111 &  x112 &  x147 &  x198 &  x335 & ~x61 & ~x66 & ~x167 & ~x171 & ~x224 & ~x284 & ~x300
+Clause #270: 
+ x17 & ~x77
+Clause #272: 
+ x57 &  x59 &  x306 &  x336 & ~x177 & ~x224 & ~x283
+Clause #274: 
+ x12 &  x13 &  x16 &  x37 &  x193 &  x278 & ~x166
+Clause #276: 
+ x144 &  x346 & ~x256 & ~x320
+Clause #278: 
+ x141 & ~x216
+Clause #280: 
+ x34 &  x37 &  x114 &  x191 &  x192 &  x194 &  x239 &  x273 & ~x5 & ~x41 & ~x161 & ~x281 & ~x345
+Clause #282: 
+ x12 &  x13 &  x17 &  x118 &  x150 &  x219 &  x278 &  x318 & ~x246 & ~x300 & ~x301 & ~x304
+Clause #284: 
+ x49
+Clause #286: 
+ x186 & ~x293
+Clause #288: 
+ x13 & ~x134
+Clause #290: 
+ x110 & ~x181
+Clause #292: 
+~x138
+Clause #294: 
+ x278 & ~x124 & ~x136 & ~x175 & ~x181 & ~x252 & ~x328
+Clause #296: 
+ x338 & ~x42 & ~x209
+Clause #298: 
+ x110 &  x192 &  x197 & ~x228
+
+Class 0 Negative Clauses:
+Clause #1: 
+~x93 & ~x109 & ~x198 & ~x291 & ~x332
+Clause #3: 
+~x14 & ~x76 & ~x188 & ~x235
+Clause #5: 
+ x6 & ~x143
+Clause #7: 
+~x195 & ~x291 & ~x334
+Clause #9: 
+~x38
+Clause #11: 
+ x256 & ~x14
+Clause #13: 
+
+Clause #15: 
+~x149
+Clause #17: 
+ x213 & ~x203
+Clause #19: 
+ x67
+Clause #21: 
+~x38 & ~x88 & ~x93 & ~x110 & ~x189 & ~x269 & ~x274 & ~x277
+Clause #23: 
+~x142 & ~x265
+Clause #25: 
+ x234 & ~x115 & ~x316
+Clause #27: 
+ x295 &  x311 & ~x22 & ~x123 & ~x130 & ~x173 & ~x191 & ~x271
+Clause #29: 
+~x268
+Clause #31: 
+ x229 & ~x150
+Clause #33: 
+~x25 & ~x69 & ~x105 & ~x114 & ~x116 & ~x271 & ~x272
+Clause #35: 
+ x277 & ~x15 & ~x337 & ~x347
+Clause #37: 
+~x34 & ~x198
+Clause #39: 
+ x72 & ~x14
+Clause #41: 
+ x57 &  x217 & ~x13 & ~x141 & ~x143 & ~x172 & ~x271
+Clause #43: 
+~x196 & ~x197
+Clause #45: 
+ x255 &  x310
+Clause #47: 
+ x208 &  x322 &  x324
+Clause #49: 
+~x74 & ~x109 & ~x194 & ~x195 & ~x197
+Clause #51: 
+~x17 & ~x38 & ~x198 & ~x292
+Clause #53: 
+~x115 & ~x117 & ~x327 & ~x342
+Clause #55: 
+ x67 &  x305 & ~x14 & ~x59 & ~x95
+Clause #57: 
+ x314 &  x315 & ~x143 & ~x189
+Clause #59: 
+~x291
+Clause #61: 
+ x229
+Clause #63: 
+ x231
+Clause #65: 
+
+Clause #67: 
+ x209
+Clause #69: 
+ x310 & ~x107
+Clause #71: 
+ x281
+Clause #73: 
+~x74
+Clause #75: 
+ x233 & ~x278
+Clause #77: 
+ x26 &  x124 &  x167
+Clause #79: 
+ x177 & ~x188
+Clause #81: 
+ x225
+Clause #83: 
+ x26 &  x127
+Clause #85: 
+ x260
+Clause #87: 
+ x256 & ~x27 & ~x28 & ~x261 & ~x265
+Clause #89: 
+~x335
+Clause #91: 
+ x227
+Clause #93: 
+ x177 &  x197 &  x234 &  x236 & ~x50 & ~x110 & ~x144
+Clause #95: 
+ x178 & ~x36 & ~x331
+Clause #97: 
+ x259 &  x294 &  x317 & ~x4 & ~x44 & ~x114 & ~x184 & ~x187 & ~x243 & ~x349 & ~x351
+Clause #99: 
+~x18
+Clause #101: 
+
+Clause #103: 
+ x73 &  x231 &  x234 & ~x309
+Clause #105: 
+~x18
+Clause #107: 
+ x121
+Clause #109: 
+ x73 &  x74 &  x78 &  x95 &  x177 &  x217 & ~x60 & ~x83 & ~x145
+Clause #111: 
+~x16 & ~x74 & ~x193 & ~x195 & ~x196 & ~x334
+Clause #113: 
+ x211 &  x229
+Clause #115: 
+ x211
+Clause #117: 
+ x55 &  x237 & ~x309
+Clause #119: 
+ x133 & ~x195
+Clause #121: 
+ x32 &  x99 &  x177 &  x213 & ~x145
+Clause #123: 
+
+Clause #125: 
+
+Clause #127: 
+ x66 &  x169
+Clause #129: 
+
+Clause #131: 
+ x118 &  x135 &  x136 & ~x0 & ~x26 & ~x27 & ~x144 & ~x182 & ~x183
+Clause #133: 
+
+Clause #135: 
+~x17 & ~x193 & ~x355
+Clause #137: 
+ x178 & ~x288 & ~x290 & ~x347
+Clause #139: 
+ x301
+Clause #141: 
+~x152
+Clause #143: 
+ x19 &  x39 &  x77 &  x139 &  x292 &  x297 &  x310 &  x312 & ~x20 & ~x40 & ~x71 & ~x88 & ~x110 & ~x160 & ~x182 & ~x184 & ~x186 & ~x187 & ~x201 & ~x220 & ~x230 & ~x265 & ~x270
+Clause #145: 
+ x291 &  x292 & ~x65 & ~x93 & ~x276
+Clause #147: 
+ x23
+Clause #149: 
+ x165 &  x168
+Clause #151: 
+~x93 & ~x137 & ~x236 & ~x257
+Clause #153: 
+ x35 &  x156 &  x217 &  x238 &  x254 &  x255 &  x294 & ~x71 & ~x83 & ~x129 & ~x130 & ~x188 & ~x309
+Clause #155: 
+~x195 & ~x197 & ~x334
+Clause #157: 
+ x136 &  x254 & ~x112
+Clause #159: 
+ x175 & ~x109
+Clause #161: 
+~x84 & ~x93 & ~x109 & ~x243 & ~x292 & ~x321 & ~x324 & ~x327 & ~x336 & ~x337 & ~x355
+Clause #163: 
+~x10 & ~x13 & ~x48 & ~x114 & ~x127 & ~x248 & ~x347
+Clause #165: 
+ x77 &  x294 &  x297 &  x310 &  x312 &  x316 & ~x269
+Clause #167: 
+ x128
+Clause #169: 
+ x177
+Clause #171: 
+ x178 & ~x75 & ~x169 & ~x186 & ~x195 & ~x196 & ~x197
+Clause #173: 
+ x136 &  x177 &  x234
+Clause #175: 
+~x198 & ~x257
+Clause #177: 
+ x99 &  x315 & ~x101 & ~x195 & ~x340
+Clause #179: 
+
+Clause #181: 
+ x175 &  x253 & ~x281
+Clause #183: 
+ x175 &  x178 & ~x51 & ~x80 & ~x109 & ~x162 & ~x168 & ~x174
+Clause #185: 
+ x136 &  x208 &  x214
+Clause #187: 
+ x133 &  x134 &  x179 &  x219 &  x299 & ~x60 & ~x83 & ~x244
+Clause #189: 
+ x59 &  x73 &  x99 &  x256 &  x339 & ~x142 & ~x143 & ~x265
+Clause #191: 
+~x289 & ~x291 & ~x337
+Clause #193: 
+ x134
+Clause #195: 
+~x197
+Clause #197: 
+~x94 & ~x197 & ~x255
+Clause #199: 
+~x14 & ~x288 & ~x353
+Clause #201: 
+ x214
+Clause #203: 
+ x54 &  x208 & ~x148
+Clause #205: 
+ x223
+Clause #207: 
+ x177 &  x255
+Clause #209: 
+~x14 & ~x195 & ~x204 & ~x291 & ~x322 & ~x337
+Clause #211: 
+~x94 & ~x197
+Clause #213: 
+ x209 &  x211 &  x293
+Clause #215: 
+ x280
+Clause #217: 
+ x65
+Clause #219: 
+ x210
+Clause #221: 
+ x57 &  x77 &  x158 &  x256 & ~x230 & ~x300
+Clause #223: 
+ x302
+Clause #225: 
+ x135
+Clause #227: 
+ x128 &  x208
+Clause #229: 
+ x316 & ~x40 & ~x46 & ~x113 & ~x189 & ~x197 & ~x221 & ~x288 & ~x351
+Clause #231: 
+~x145
+Clause #233: 
+ x224
+Clause #235: 
+ x255 & ~x289
+Clause #237: 
+ x136 & ~x143
+Clause #239: 
+~x150
+Clause #241: 
+~x271 & ~x309
+Clause #243: 
+ x72
+Clause #245: 
+
+Clause #247: 
+
+Clause #249: 
+ x127
+Clause #251: 
+
+Clause #253: 
+~x355
+Clause #255: 
+ x95 &  x149 &  x155 &  x158 &  x285 &  x299 &  x315 & ~x27 & ~x129 & ~x174 & ~x191
+Clause #257: 
+~x17
+Clause #259: 
+ x256 & ~x194 & ~x272
+Clause #261: 
+ x72 &  x177 &  x208
+Clause #263: 
+~x15 & ~x17 & ~x93 & ~x114 & ~x182 & ~x326 & ~x332
+Clause #265: 
+ x135 &  x299 & ~x80 & ~x288
+Clause #267: 
+~x0 & ~x34 & ~x94 & ~x109 & ~x113 & ~x195 & ~x197
+Clause #269: 
+ x168
+Clause #271: 
+ x35 &  x73
+Clause #273: 
+ x134
+Clause #275: 
+~x198
+Clause #277: 
+ x281
+Clause #279: 
+ x168
+Clause #281: 
+ x123
+Clause #283: 
+ x79 &  x156 &  x277 & ~x1 & ~x6 & ~x16 & ~x17 & ~x26 & ~x28 & ~x212 & ~x288 & ~x325 & ~x351
+Clause #285: 
+ x212 & ~x150
+Clause #287: 
+ x229
+Clause #289: 
+~x94 & ~x253 & ~x334
+Clause #291: 
+~x15 & ~x16 & ~x289 & ~x347
+Clause #293: 
+~x14 & ~x337 & ~x350
+Clause #295: 
+ x69
+Clause #297: 
+ x3
+Clause #299: 
+ x56 &  x72 &  x91 &  x135 &  x256 & ~x145 & ~x146
+
+Class 1 Positive Clauses:
+Clause #0: 
+~x32 & ~x50 & ~x193
+Clause #2: 
+ x6 &  x12 &  x16 &  x27 &  x49 &  x166 &  x169 &  x170 &  x174 &  x215 &  x216 &  x232 &  x247 & ~x143 & ~x149 & ~x301
+Clause #4: 
+ x51 &  x57 &  x72 &  x97 &  x98 &  x131 &  x158 &  x172 &  x173 &  x210 &  x213 &  x230 &  x314 &  x333 &  x335 & ~x83 & ~x101 & ~x148 & ~x161 & ~x201 & ~x260 & ~x301
+Clause #6: 
+~x148
+Clause #8: 
+~x115 & ~x193
+Clause #10: 
+~x55
+Clause #12: 
+ x26 &  x27 &  x169 &  x189 &  x209 & ~x148
+Clause #14: 
+ x314 & ~x31 & ~x114 & ~x188 & ~x260
+Clause #16: 
+ x59 &  x66 &  x134 &  x347 &  x357
+Clause #18: 
+~x93 & ~x94
+Clause #20: 
+~x96
+Clause #22: 
+ x44 &  x64 &  x65 &  x92 &  x183
+Clause #24: 
+ x3 &  x9 & ~x326
+Clause #26: 
+ x97 &  x237 &  x342 & ~x21 & ~x84
+Clause #28: 
+ x342
+Clause #30: 
+ x18 &  x36 &  x54 &  x136 &  x191 &  x199 &  x218 &  x239 &  x299 &  x356 & ~x82 & ~x102 & ~x120 & ~x200 & ~x262 & ~x263 & ~x280 & ~x293 & ~x306 & ~x307 & ~x308
+Clause #32: 
+~x37 & ~x194
+Clause #34: 
+ x15 &  x33 &  x45 &  x51 &  x69 &  x76 &  x77 &  x119 &  x132 &  x176 &  x209 &  x215 &  x219 &  x259 &  x299 &  x313 &  x315 &  x333 &  x350 &  x351 & ~x148 & ~x240 & ~x320
+Clause #36: 
+ x98 & ~x31 & ~x110 & ~x113 & ~x126 & ~x231 & ~x344
+Clause #38: 
+~x51 & ~x110
+Clause #40: 
+ x122
+Clause #42: 
+~x53 & ~x96
+Clause #44: 
+ x44 &  x48 &  x66 &  x215 &  x352 & ~x148
+Clause #46: 
+ x65 &  x206 &  x244 &  x350 & ~x41 & ~x323
+Clause #48: 
+ x114 &  x129 &  x170 &  x176 &  x192 &  x236 &  x256 &  x275 & ~x120 & ~x143 & ~x150 & ~x180 & ~x328
+Clause #50: 
+ x338 & ~x33 & ~x194 & ~x324 & ~x328 & ~x345
+Clause #52: 
+ x51 &  x71 &  x114 &  x129 &  x172 &  x199 &  x210 &  x356 & ~x21 & ~x61 & ~x147 & ~x149 & ~x181 & ~x201
+Clause #54: 
+ x111 &  x114 & ~x20 & ~x220 & ~x240 & ~x281 & ~x287 & ~x289 & ~x291 & ~x293
+Clause #56: 
+~x326
+Clause #58: 
+ x145 &  x146 &  x152 &  x153 &  x298 & ~x10 & ~x13 & ~x64 & ~x68 & ~x105 & ~x134 & ~x180 & ~x192 & ~x234
+Clause #60: 
+ x243
+Clause #62: 
+ x276 & ~x24 & ~x93 & ~x200 & ~x201 & ~x328
+Clause #64: 
+ x153 & ~x28 & ~x180 & ~x280 & ~x305 & ~x307
+Clause #66: 
+ x347 & ~x92 & ~x275
+Clause #68: 
+~x198
+Clause #70: 
+ x76 &  x158 &  x178 &  x274 &  x319 &  x338 & ~x103 & ~x120 & ~x140 & ~x162 & ~x163 & ~x180 & ~x201 & ~x220 & ~x322
+Clause #72: 
+~x34
+Clause #74: 
+~x115
+Clause #76: 
+ x14 &  x15 &  x17 &  x77 &  x96 &  x97 &  x98 &  x153 &  x238 &  x293 &  x312 &  x337 &  x338 &  x358 & ~x20 & ~x120 & ~x163 & ~x181 & ~x201 & ~x260 & ~x340
+Clause #78: 
+ x51 &  x71 &  x77 &  x78 &  x117 &  x129 &  x158 &  x174 &  x176 &  x210 &  x279 &  x318 &  x333 & ~x20 & ~x148 & ~x261 & ~x301
+Clause #80: 
+ x9 &  x42 &  x65
+Clause #82: 
+ x343 & ~x274
+Clause #84: 
+ x42
+Clause #86: 
+~x336
+Clause #88: 
+ x8 &  x24 &  x36 &  x45 &  x51 &  x66 &  x112 &  x118 &  x119 &  x172 &  x174 &  x175 &  x192 &  x210 &  x217 &  x244 &  x257 &  x272 & ~x148 & ~x264 & ~x301 & ~x321
+Clause #90: 
+ x153 &  x347 & ~x86 & ~x240
+Clause #92: 
+
+Clause #94: 
+ x36 &  x56 &  x71 &  x73 &  x113 &  x133 &  x172 &  x174 &  x177 &  x191 &  x209 &  x230 &  x255 &  x333 &  x354 & ~x21 & ~x83 & ~x150 & ~x181 & ~x260 & ~x262 & ~x323 & ~x340
+Clause #96: 
+~x72 & ~x116
+Clause #98: 
+ x3 &  x4 &  x24 &  x114 &  x251 & ~x149 & ~x154 & ~x220
+Clause #100: 
+ x59 &  x298 & ~x24 & ~x32 & ~x33 & ~x80 & ~x102 & ~x104 & ~x112 & ~x123 & ~x187 & ~x193 & ~x205 & ~x326
+Clause #102: 
+ x97 & ~x50 & ~x83 & ~x102 & ~x108 & ~x163 & ~x184
+Clause #104: 
+ x44 &  x65
+Clause #106: 
+ x258 & ~x22 & ~x26 & ~x61 & ~x66 & ~x104 & ~x121 & ~x125 & ~x141 & ~x165 & ~x169 & ~x184 & ~x185 & ~x200 & ~x224 & ~x326 & ~x327
+Clause #108: 
+ x342 &  x343 &  x347
+Clause #110: 
+~x50
+Clause #112: 
+ x26 &  x77 &  x114 &  x204 &  x230
+Clause #114: 
+~x334
+Clause #116: 
+ x293 &  x305
+Clause #118: 
+~x37 & ~x50 & ~x51 & ~x226 & ~x322
+Clause #120: 
+ x3 &  x90
+Clause #122: 
+ x2
+Clause #124: 
+ x129 &  x134 &  x137 &  x156 &  x157 &  x215 &  x236 &  x351 & ~x1 & ~x83 & ~x103 & ~x143 & ~x150 & ~x181 & ~x240 & ~x265
+Clause #126: 
+~x14 & ~x214
+Clause #128: 
+~x28 & ~x306 & ~x308
+Clause #130: 
+ x73 &  x77 &  x117 &  x275 &  x279 & ~x268 & ~x321
+Clause #132: 
+~x198
+Clause #134: 
+ x44 &  x65 &  x66 &  x252 &  x259
+Clause #136: 
+ x6 &  x48 &  x51 &  x72 &  x97 &  x114 &  x116 &  x124 &  x171 &  x173 &  x174 &  x189 &  x210 &  x246 &  x275 & ~x149 & ~x150 & ~x262 & ~x264 & ~x301 & ~x344
+Clause #138: 
+~x192 & ~x328
+Clause #140: 
+ x14 &  x15 &  x153 &  x155 &  x315 &  x334 & ~x20 & ~x29 & ~x30 & ~x89 & ~x103 & ~x104 & ~x106 & ~x122 & ~x181 & ~x205 & ~x322
+Clause #142: 
+ x153 &  x158 &  x199 & ~x83 & ~x104 & ~x192 & ~x240 & ~x249 & ~x322
+Clause #144: 
+ x1
+Clause #146: 
+ x56 &  x118 &  x131 &  x136 &  x213 &  x236 &  x279 &  x356 & ~x83 & ~x122 & ~x180 & ~x181 & ~x184 & ~x185 & ~x200 & ~x201 & ~x206 & ~x223 & ~x261 & ~x280
+Clause #148: 
+ x8 &  x15 &  x19 &  x35 &  x56 &  x66 &  x75 &  x76 &  x93 &  x109 &  x112 &  x114 &  x129 &  x173 &  x174 &  x194 &  x215 &  x228 &  x232 &  x238 &  x334 &  x351 & ~x100 & ~x149 & ~x150 & ~x240 & ~x262 & ~x264
+Clause #150: 
+ x352
+Clause #152: 
+ x17 &  x36 &  x54 &  x73 &  x116 &  x170 &  x171 &  x174 &  x347 &  x351 & ~x21
+Clause #154: 
+ x57 &  x77 &  x130 &  x174 &  x213 &  x216 &  x230 &  x298 & ~x86 & ~x103 & ~x105 & ~x125 & ~x181 & ~x184 & ~x264 & ~x268
+Clause #156: 
+~x291 & ~x311
+Clause #158: 
+
+Clause #160: 
+~x4 & ~x93 & ~x193
+Clause #162: 
+~x33 & ~x34 & ~x50 & ~x160
+Clause #164: 
+ x59 &  x325 & ~x149 & ~x205 & ~x274
+Clause #166: 
+ x69 &  x213 &  x232 & ~x87 & ~x268
+Clause #168: 
+ x287 & ~x324
+Clause #170: 
+~x193 & ~x195 & ~x329
+Clause #172: 
+ x49 &  x115 &  x156 &  x176 &  x210 &  x217 &  x312 & ~x148 & ~x180 & ~x181 & ~x266
+Clause #174: 
+ x63
+Clause #176: 
+~x318
+Clause #178: 
+ x14 &  x51 &  x52 &  x55 &  x71 &  x72 &  x98 &  x99 &  x133 &  x176 &  x212 &  x215 &  x235 &  x277 &  x333 &  x359 & ~x20 & ~x163 & ~x180 & ~x181 & ~x182 & ~x260 & ~x265 & ~x268
+Clause #180: 
+ x284
+Clause #182: 
+ x17 &  x51 &  x129 &  x170 &  x355 & ~x201 & ~x301
+Clause #184: 
+~x32 & ~x177
+Clause #186: 
+ x2
+Clause #188: 
+ x284 &  x285 &  x286 &  x287
+Clause #190: 
+~x56
+Clause #192: 
+ x338 & ~x328
+Clause #194: 
+ x114 &  x116 &  x189 &  x204 &  x339 & ~x146 & ~x328
+Clause #196: 
+ x264
+Clause #198: 
+ x65 &  x252 & ~x292
+Clause #200: 
+ x4 &  x6 &  x12 &  x45 &  x64 &  x65 &  x108 &  x166 &  x230 &  x250 &  x356 & ~x150
+Clause #202: 
+~x194 & ~x328
+Clause #204: 
+ x8 &  x12 &  x14 &  x69 &  x70 &  x73 &  x112 &  x127 &  x129 &  x190 &  x209 &  x225 & ~x150 & ~x180 & ~x324
+Clause #206: 
+~x108 & ~x193 & ~x241
+Clause #208: 
+~x36 & ~x188 & ~x194
+Clause #210: 
+~x53 & ~x193 & ~x194
+Clause #212: 
+ x204 &  x214 &  x243 & ~x263
+Clause #214: 
+ x48 &  x51 &  x66 &  x114 &  x170 &  x209 &  x210 &  x239 &  x250 &  x338 & ~x149 & ~x154 & ~x264 & ~x301
+Clause #216: 
+~x87
+Clause #218: 
+ x278 &  x312 & ~x85 & ~x113
+Clause #220: 
+~x52 & ~x113 & ~x214
+Clause #222: 
+
+Clause #224: 
+ x34 &  x51 & ~x184 & ~x307
+Clause #226: 
+~x37
+Clause #228: 
+~x335
+Clause #230: 
+ x153 & ~x240 & ~x307
+Clause #232: 
+~x31 & ~x50 & ~x111
+Clause #234: 
+ x152 &  x153 & ~x7 & ~x27 & ~x30 & ~x31 & ~x108 & ~x132 & ~x188 & ~x208 & ~x214 & ~x247
+Clause #236: 
+~x56
+Clause #238: 
+ x48 &  x51 &  x347 & ~x148 & ~x150 & ~x151
+Clause #240: 
+~x193 & ~x326
+Clause #242: 
+ x15 &  x44 &  x66 &  x69 &  x97 &  x131 &  x166 &  x173 &  x174 &  x196 &  x319 &  x333 &  x335 &  x336 &  x337 & ~x143 & ~x149 & ~x320
+Clause #244: 
+~x89
+Clause #246: 
+ x24 &  x114 &  x173 &  x211 &  x244 &  x273 &  x351 & ~x263 & ~x327
+Clause #248: 
+~x193 & ~x324
+Clause #250: 
+~x29 & ~x249 & ~x305
+Clause #252: 
+ x18 &  x98 &  x298 & ~x31 & ~x42 & ~x50 & ~x83 & ~x108 & ~x122 & ~x123 & ~x163 & ~x180 & ~x186 & ~x201 & ~x224 & ~x240 & ~x246 & ~x320
+Clause #254: 
+ x303
+Clause #256: 
+ x64 &  x124
+Clause #258: 
+ x17 &  x152 &  x335 & ~x24 & ~x83 & ~x144 & ~x183 & ~x223 & ~x262 & ~x268
+Clause #260: 
+ x25 &  x114 &  x245 &  x333 & ~x150
+Clause #262: 
+ x1
+Clause #264: 
+~x10 & ~x33 & ~x82 & ~x107 & ~x193 & ~x195 & ~x228 & ~x340
+Clause #266: 
+ x12 &  x49 &  x52 &  x66 &  x68 &  x96 &  x108 &  x114 &  x115 &  x116 &  x118 &  x127 &  x132 &  x134 &  x170 &  x173 &  x208 &  x209 &  x210 &  x338 &  x351 & ~x263
+Clause #268: 
+~x34 & ~x51 & ~x194
+Clause #270: 
+ x273
+Clause #272: 
+ x256 & ~x12 & ~x193
+Clause #274: 
+~x14 & ~x113 & ~x193
+Clause #276: 
+ x12 &  x49 &  x127 &  x131 &  x139 &  x158 &  x246 &  x251 &  x253 &  x333 & ~x148 & ~x149 & ~x264 & ~x324
+Clause #278: 
+ x16 &  x48 &  x51 &  x71 &  x96 &  x111 &  x114 &  x132 &  x172 &  x207 &  x230 &  x231 &  x275 &  x312 &  x337 & ~x147 & ~x150 & ~x264 & ~x265 & ~x326
+Clause #280: 
+ x242
+Clause #282: 
+ x14 &  x37 &  x51 &  x96 &  x107 &  x158 &  x174 &  x214 &  x243 &  x252 &  x259 &  x353 & ~x120
+Clause #284: 
+ x359 & ~x31 & ~x190 & ~x194 & ~x195 & ~x287
+Clause #286: 
+ x4 &  x12 &  x44 &  x210 &  x274 & ~x148
+Clause #288: 
+
+Clause #290: 
+ x286 & ~x114
+Clause #292: 
+ x9 &  x17 &  x27 &  x44 &  x45 &  x48 &  x65 &  x66 &  x131 &  x169 &  x171 &  x172 &  x174 &  x207 &  x230 &  x233 &  x247 &  x250 &  x251 &  x278 &  x314 &  x335 & ~x143 & ~x148
+Clause #294: 
+ x6 &  x26
+Clause #296: 
+ x343
+Clause #298: 
+~x22 & ~x26 & ~x193 & ~x260 & ~x326 & ~x342
+
+Class 1 Negative Clauses:
+Clause #1: 
+ x269 & ~x63 & ~x216
+Clause #3: 
+ x267
+Clause #5: 
+ x54 &  x254 &  x269 & ~x141 & ~x144 & ~x146
+Clause #7: 
+ x220
+Clause #9: 
+~x209 & ~x247
+Clause #11: 
+ x149 &  x150 &  x151 &  x356 & ~x3 & ~x44 & ~x61 & ~x64 & ~x66 & ~x130 & ~x171 & ~x204 & ~x208 & ~x224 & ~x281
+Clause #13: 
+~x2 & ~x321 & ~x348 & ~x350 & ~x351
+Clause #15: 
+ x120
+Clause #17: 
+ x109 &  x289 &  x294 &  x296
+Clause #19: 
+ x107
+Clause #21: 
+~x45 & ~x252
+Clause #23: 
+ x104
+Clause #25: 
+ x242
+Clause #27: 
+~x122 & ~x127 & ~x191 & ~x294
+Clause #29: 
+ x21
+Clause #31: 
+
+Clause #33: 
+ x89 &  x108 &  x348 & ~x102
+Clause #35: 
+ x220
+Clause #37: 
+ x91 &  x324
+Clause #39: 
+ x324 &  x326 &  x329 &  x351 & ~x100 & ~x223 & ~x245 & ~x260 & ~x271
+Clause #41: 
+ x78 &  x89 &  x331 & ~x223 & ~x272 & ~x274
+Clause #43: 
+ x148
+Clause #45: 
+ x83
+Clause #47: 
+ x11 &  x56 &  x58 &  x331 &  x338 & ~x32 & ~x42
+Clause #49: 
+~x226 & ~x252 & ~x294 & ~x295
+Clause #51: 
+ x261
+Clause #53: 
+ x117 & ~x0 & ~x80 & ~x281 & ~x342
+Clause #55: 
+ x322
+Clause #57: 
+ x149 & ~x284
+Clause #59: 
+ x148 &  x149 &  x271 & ~x210 & ~x303
+Clause #61: 
+ x240
+Clause #63: 
+ x58 & ~x253 & ~x254 & ~x256
+Clause #65: 
+ x9 &  x30 &  x32 &  x38 &  x39 &  x55 &  x99 &  x111 &  x114 &  x135 &  x190 &  x205 &  x207 &  x212 &  x217 &  x252 &  x253 &  x256 &  x259 &  x291 &  x318 & ~x150 & ~x280
+Clause #67: 
+~x158
+Clause #69: 
+
+Clause #71: 
+
+Clause #73: 
+
+Clause #75: 
+ x105
+Clause #77: 
+~x357
+Clause #79: 
+~x157
+Clause #81: 
+ x149 &  x179 & ~x8 & ~x129 & ~x208 & ~x209 & ~x210 & ~x251
+Clause #83: 
+ x88 &  x327 &  x329 &  x347 &  x349 & ~x121
+Clause #85: 
+ x32 &  x50 &  x89 &  x128 &  x129 &  x168 &  x254 & ~x260 & ~x281 & ~x340
+Clause #87: 
+ x150 & ~x286
+Clause #89: 
+ x266
+Clause #91: 
+ x140
+Clause #93: 
+ x22 & ~x102
+Clause #95: 
+ x88 &  x89
+Clause #97: 
+ x148 &  x150 & ~x121 & ~x163 & ~x342
+Clause #99: 
+ x35 &  x89 &  x135 &  x136 &  x139 &  x167 &  x197 &  x228 &  x233 &  x278 &  x298 &  x331 &  x334 & ~x145 & ~x146 & ~x152 & ~x262 & ~x341 & ~x342
+Clause #101: 
+ x85
+Clause #103: 
+ x33 &  x191 &  x265
+Clause #105: 
+
+Clause #107: 
+~x76
+Clause #109: 
+ x290 & ~x82 & ~x244 & ~x263 & ~x281 & ~x342
+Clause #111: 
+ x36 &  x194 &  x269
+Clause #113: 
+ x149 &  x261
+Clause #115: 
+ x52 &  x269 &  x277
+Clause #117: 
+~x136
+Clause #119: 
+ x322
+Clause #121: 
+~x136
+Clause #123: 
+
+Clause #125: 
+~x295
+Clause #127: 
+ x20
+Clause #129: 
+ x30 &  x36 &  x95 &  x109 &  x207 &  x315 &  x316 & ~x344
+Clause #131: 
+ x30 &  x92 &  x175 &  x297 & ~x45 & ~x281
+Clause #133: 
+ x290
+Clause #135: 
+ x266
+Clause #137: 
+ x198 &  x288 &  x346 &  x354 & ~x272
+Clause #139: 
+
+Clause #141: 
+
+Clause #143: 
+ x148 &  x149 &  x271 & ~x71 & ~x171 & ~x304
+Clause #145: 
+ x148 & ~x127 & ~x207 & ~x284
+Clause #147: 
+ x38 &  x268 &  x269 & ~x331 & ~x349 & ~x350
+Clause #149: 
+~x16
+Clause #151: 
+ x35 &  x266 &  x269
+Clause #153: 
+~x76
+Clause #155: 
+ x85 & ~x3
+Clause #157: 
+ x21
+Clause #159: 
+ x92 &  x349
+Clause #161: 
+~x17 & ~x301
+Clause #163: 
+ x148 &  x149 & ~x8 & ~x42 & ~x45 & ~x86 & ~x129 & ~x210 & ~x256 & ~x281 & ~x284
+Clause #165: 
+ x148 &  x149 & ~x171
+Clause #167: 
+ x323
+Clause #169: 
+ x5 &  x194
+Clause #171: 
+ x18 &  x28 &  x30 &  x205 &  x253 & ~x1 & ~x280
+Clause #173: 
+ x104 & ~x0
+Clause #175: 
+ x12 &  x89 &  x96 &  x157 &  x159 &  x179 &  x235 &  x236 &  x326 &  x328 &  x329 &  x330 &  x331 &  x348 &  x352 & ~x162 & ~x273
+Clause #177: 
+ x142 & ~x235
+Clause #179: 
+ x283
+Clause #181: 
+~x304 & ~x338
+Clause #183: 
+ x73 &  x137 &  x337 & ~x49 & ~x63 & ~x122 & ~x182 & ~x252
+Clause #185: 
+ x148 & ~x132 & ~x248 & ~x267
+Clause #187: 
+~x18
+Clause #189: 
+ x84 & ~x48
+Clause #191: 
+~x209 & ~x312
+Clause #193: 
+ x83
+Clause #195: 
+ x168 &  x194 &  x295 &  x329 & ~x144 & ~x281 & ~x342
+Clause #197: 
+~x17
+Clause #199: 
+ x198 &  x291 &  x349 & ~x202 & ~x269 & ~x342
+Clause #201: 
+ x194 & ~x125 & ~x171
+Clause #203: 
+ x272 & ~x282 & ~x283 & ~x352
+Clause #205: 
+ x203
+Clause #207: 
+ x117 & ~x153
+Clause #209: 
+ x15 &  x234 &  x252 &  x254 & ~x281
+Clause #211: 
+ x266 & ~x303
+Clause #213: 
+ x89 &  x322 &  x323
+Clause #215: 
+ x309 & ~x86 & ~x87 & ~x90 & ~x343
+Clause #217: 
+~x136
+Clause #219: 
+ x194 & ~x313
+Clause #221: 
+ x187 &  x223 &  x277 &  x336 & ~x151
+Clause #223: 
+~x54 & ~x136
+Clause #225: 
+ x82 & ~x121
+Clause #227: 
+ x321
+Clause #229: 
+ x140
+Clause #231: 
+ x10 &  x56 &  x96 &  x98 &  x324 &  x330 &  x331 &  x337 &  x356
+Clause #233: 
+
+Clause #235: 
+ x103
+Clause #237: 
+ x89 &  x95 &  x322 &  x329 & ~x145
+Clause #239: 
+ x187 &  x205 &  x235 &  x277 &  x329 & ~x153
+Clause #241: 
+
+Clause #243: 
+
+Clause #245: 
+ x92 & ~x68
+Clause #247: 
+ x349 & ~x121 & ~x129 & ~x171 & ~x211
+Clause #249: 
+ x261
+Clause #251: 
+ x307 &  x308
+Clause #253: 
+~x237
+Clause #255: 
+ x320
+Clause #257: 
+ x56 &  x176 & ~x0 & ~x23 & ~x42 & ~x127 & ~x200 & ~x204 & ~x208 & ~x244
+Clause #259: 
+ x50 &  x90 &  x115 &  x116 &  x329 &  x336 & ~x144 & ~x162 & ~x342
+Clause #261: 
+ x147 &  x149 & ~x68 & ~x132 & ~x135 & ~x210 & ~x212 & ~x251 & ~x252 & ~x303
+Clause #263: 
+~x133
+Clause #265: 
+~x38
+Clause #267: 
+ x90 &  x278 &  x311 &  x338 & ~x0 & ~x162
+Clause #269: 
+ x316 &  x349 & ~x49 & ~x66 & ~x121
+Clause #271: 
+ x90 & ~x7 & ~x189
+Clause #273: 
+ x300
+Clause #275: 
+ x180
+Clause #277: 
+ x268
+Clause #279: 
+~x217
+Clause #281: 
+ x269 &  x271 & ~x330 & ~x352
+Clause #283: 
+ x223 &  x248
+Clause #285: 
+ x276 & ~x351 & ~x354
+Clause #287: 
+~x76
+Clause #289: 
+
+Clause #291: 
+~x216 & ~x217
+Clause #293: 
+~x281
+Clause #295: 
+
+Clause #297: 
+ x36 &  x149 &  x196 & ~x183 & ~x303
+Clause #299: 
+ x95 & ~x47 & ~x67 & ~x82 & ~x129 & ~x167 & ~x208 & ~x230 & ~x281 & ~x284
+
+Class 2 Positive Clauses:
+Clause #0: 
+
+Clause #2: 
+ x193 & ~x54 & ~x185 & ~x186 & ~x230 & ~x304 & ~x309
+Clause #4: 
+ x32 &  x268 & ~x91
+Clause #6: 
+ x135 &  x269 & ~x190 & ~x338
+Clause #8: 
+ x326 &  x329 &  x330 &  x346 & ~x51
+Clause #10: 
+ x38 &  x325
+Clause #12: 
+ x134 &  x193 &  x214 &  x235 & ~x283 & ~x353
+Clause #14: 
+~x317
+Clause #16: 
+ x19 &  x33 &  x35 &  x124 &  x175 &  x269 & ~x116 & ~x145
+Clause #18: 
+ x87 &  x135 &  x176 &  x216 & ~x112 & ~x143 & ~x288
+Clause #20: 
+
+Clause #22: 
+ x126
+Clause #24: 
+~x254
+Clause #26: 
+ x72 &  x76 &  x93 & ~x108 & ~x109 & ~x111 & ~x112 & ~x114 & ~x144
+Clause #28: 
+ x9
+Clause #30: 
+~x154
+Clause #32: 
+~x139 & ~x215
+Clause #34: 
+
+Clause #36: 
+ x87 &  x88 & ~x27 & ~x112 & ~x141 & ~x174 & ~x243 & ~x246 & ~x284 & ~x343 & ~x344
+Clause #38: 
+~x99
+Clause #40: 
+ x123
+Clause #42: 
+ x135 &  x175 &  x265 &  x295 & ~x54 & ~x170 & ~x337
+Clause #44: 
+ x247 & ~x156
+Clause #46: 
+ x66 &  x227
+Clause #48: 
+ x315 &  x319 & ~x47 & ~x126 & ~x281 & ~x291
+Clause #50: 
+ x175 &  x295 & ~x51 & ~x54 & ~x143
+Clause #52: 
+ x15 & ~x115
+Clause #54: 
+ x234 & ~x15 & ~x54 & ~x94
+Clause #56: 
+ x263
+Clause #58: 
+ x1 &  x163 &  x244 &  x261 & ~x154
+Clause #60: 
+ x38 &  x72 &  x88 &  x91 &  x135 &  x176 &  x177 &  x331 &  x339 & ~x49 & ~x112 & ~x143 & ~x243 & ~x301
+Clause #62: 
+ x197 &  x270 & ~x129 & ~x143 & ~x284 & ~x333
+Clause #64: 
+ x34 &  x35 &  x36 &  x38 &  x79 &  x118 &  x135 &  x136 &  x149 &  x153 &  x193 &  x218 &  x235 &  x256 &  x258 &  x277 & ~x2 & ~x11 & ~x12 & ~x13 & ~x29 & ~x51 & ~x126 & ~x127 & ~x130 & ~x133 & ~x143 & ~x144 & ~x170 & ~x172 & ~x174 & ~x223 & ~x230 & ~x244 & ~x302 & ~x304 & ~x308 & ~x309
+Clause #66: 
+ x56 &  x73 &  x85 &  x87 &  x88 &  x215 &  x216 &  x331 &  x334 & ~x110 & ~x112 & ~x143
+Clause #68: 
+~x54
+Clause #70: 
+~x330 & ~x353
+Clause #72: 
+~x29 & ~x143 & ~x146 & ~x292
+Clause #74: 
+ x80
+Clause #76: 
+~x152
+Clause #78: 
+ x56 &  x73 &  x135 &  x136 &  x175 &  x258 & ~x0 & ~x48 & ~x143 & ~x189
+Clause #80: 
+ x135 & ~x117 & ~x284
+Clause #82: 
+ x88 &  x150 &  x279 &  x327 &  x331 & ~x48 & ~x112 & ~x126 & ~x143 & ~x170 & ~x246 & ~x302 & ~x308 & ~x309
+Clause #84: 
+ x9
+Clause #86: 
+
+Clause #88: 
+ x311 & ~x110
+Clause #90: 
+~x98
+Clause #92: 
+ x6
+Clause #94: 
+ x15 &  x326 &  x329 & ~x50
+Clause #96: 
+ x33 &  x134 &  x135 &  x175 &  x216 & ~x51 & ~x141 & ~x143 & ~x171 & ~x241 & ~x282
+Clause #98: 
+ x15 &  x34 &  x149 &  x218 &  x255 &  x279 &  x290 &  x333 & ~x1 & ~x4 & ~x11 & ~x13 & ~x66 & ~x104 & ~x106 & ~x110 & ~x126 & ~x129 & ~x169 & ~x171 & ~x180 & ~x204 & ~x207 & ~x248 & ~x308 & ~x340
+Clause #100: 
+ x37 &  x135 &  x315 & ~x172 & ~x242 & ~x291 & ~x292 & ~x302 & ~x304 & ~x305
+Clause #102: 
+ x87 &  x344
+Clause #104: 
+ x214 &  x264 &  x265
+Clause #106: 
+ x34 &  x36 &  x153 &  x193 & ~x6 & ~x11 & ~x13 & ~x23 & ~x50 & ~x51 & ~x102 & ~x162 & ~x170 & ~x241 & ~x284 & ~x332
+Clause #108: 
+ x347
+Clause #110: 
+
+Clause #112: 
+ x325
+Clause #114: 
+ x123 &  x262
+Clause #116: 
+ x34 &  x35 &  x56 &  x135 &  x158 &  x175 &  x197 &  x198 &  x216 &  x277 &  x336 & ~x7 & ~x12 & ~x26 & ~x51 & ~x52 & ~x129 & ~x130 & ~x173 & ~x180 & ~x222 & ~x229 & ~x304 & ~x306
+Clause #118: 
+ x247 &  x265 & ~x133
+Clause #120: 
+ x15 &  x54 &  x72 &  x92 &  x197 &  x198 &  x258 &  x259 &  x277 &  x331 & ~x25 & ~x102 & ~x112 & ~x113 & ~x114 & ~x180 & ~x303 & ~x305
+Clause #122: 
+ x165
+Clause #124: 
+ x56 &  x135 &  x175 &  x276 & ~x51
+Clause #126: 
+ x32 &  x326 & ~x284 & ~x285
+Clause #128: 
+ x18 &  x87 &  x136 &  x176 &  x216 & ~x27 & ~x42 & ~x67 & ~x171 & ~x182 & ~x186 & ~x261
+Clause #130: 
+ x176 &  x193 &  x255
+Clause #132: 
+ x35 &  x37 &  x72 &  x94 &  x136 & ~x110 & ~x112 & ~x144 & ~x190 & ~x341
+Clause #134: 
+~x179
+Clause #136: 
+ x90 &  x325 & ~x109 & ~x110 & ~x124 & ~x174 & ~x189
+Clause #138: 
+ x56 &  x69 &  x72 &  x132 &  x217 & ~x291
+Clause #140: 
+ x270 &  x331 & ~x66 & ~x109 & ~x110 & ~x282
+Clause #142: 
+ x164
+Clause #144: 
+ x334 & ~x51 & ~x54 & ~x110 & ~x129 & ~x133 & ~x143 & ~x180 & ~x184 & ~x230 & ~x285
+Clause #146: 
+ x261
+Clause #148: 
+~x15 & ~x51 & ~x243 & ~x337
+Clause #150: 
+~x54
+Clause #152: 
+ x132 &  x169 &  x208 &  x227 &  x326 & ~x114
+Clause #154: 
+ x32
+Clause #156: 
+ x74 &  x156 &  x277 & ~x110 & ~x243 & ~x284
+Clause #158: 
+ x55 &  x89 &  x94 &  x150 &  x216 &  x277 &  x295 &  x312 &  x353 & ~x110 & ~x172 & ~x202 & ~x228 & ~x249
+Clause #160: 
+ x84 &  x324 &  x325 & ~x116
+Clause #162: 
+ x86 & ~x48
+Clause #164: 
+ x70 &  x82 &  x326
+Clause #166: 
+~x158
+Clause #168: 
+~x97
+Clause #170: 
+ x214 &  x270 & ~x112 & ~x113
+Clause #172: 
+ x213 &  x232 & ~x114
+Clause #174: 
+ x37 &  x138 &  x177 &  x294 & ~x109 & ~x231 & ~x340
+Clause #176: 
+
+Clause #178: 
+ x4 &  x322
+Clause #180: 
+ x87 &  x134 & ~x143 & ~x170
+Clause #182: 
+ x235 &  x261 & ~x51 & ~x54 & ~x174 & ~x287 & ~x347
+Clause #184: 
+ x167 &  x274
+Clause #186: 
+ x167
+Clause #188: 
+ x222
+Clause #190: 
+ x165
+Clause #192: 
+ x32 & ~x27 & ~x170
+Clause #194: 
+ x32 &  x69 &  x268 & ~x142
+Clause #196: 
+ x324
+Clause #198: 
+ x6
+Clause #200: 
+ x346 & ~x110
+Clause #202: 
+ x261
+Clause #204: 
+ x33 &  x225 & ~x54 & ~x106
+Clause #206: 
+ x295 & ~x110
+Clause #208: 
+ x72 &  x87 &  x88 &  x139 &  x154 &  x175 & ~x48 & ~x51 & ~x100 & ~x110 & ~x129 & ~x141 & ~x143 & ~x174 & ~x209 & ~x229
+Clause #210: 
+ x7 & ~x112
+Clause #212: 
+ x203
+Clause #214: 
+ x80
+Clause #216: 
+ x326
+Clause #218: 
+ x56 &  x136 &  x263 &  x266 & ~x110 & ~x112
+Clause #220: 
+ x36 &  x148 &  x213 & ~x52 & ~x141 & ~x351 & ~x352
+Clause #222: 
+ x103
+Clause #224: 
+ x87 &  x93 &  x154 &  x277 & ~x9 & ~x26 & ~x52 & ~x102 & ~x110 & ~x112 & ~x114 & ~x243
+Clause #226: 
+ x84 &  x85 &  x135 & ~x308
+Clause #228: 
+ x82
+Clause #230: 
+ x32 &  x214 & ~x112
+Clause #232: 
+ x33 &  x135 &  x264 &  x274
+Clause #234: 
+ x127
+Clause #236: 
+ x325
+Clause #238: 
+~x51 & ~x146 & ~x304
+Clause #240: 
+ x36 &  x268 & ~x332 & ~x353 & ~x355
+Clause #242: 
+ x83
+Clause #244: 
+~x18
+Clause #246: 
+ x68 &  x85 &  x87 &  x90 & ~x48
+Clause #248: 
+~x51
+Clause #250: 
+ x72 &  x155 &  x197 &  x218 &  x258 &  x334 & ~x1 & ~x131 & ~x204 & ~x344
+Clause #252: 
+ x331 & ~x114 & ~x117
+Clause #254: 
+ x154 &  x156 &  x274 &  x325
+Clause #256: 
+ x86 &  x87 &  x93 &  x99 &  x157 &  x177 & ~x109 & ~x110 & ~x121 & ~x181 & ~x242 & ~x283 & ~x303 & ~x341
+Clause #258: 
+ x85 &  x88 & ~x27 & ~x110 & ~x112 & ~x143 & ~x303 & ~x305
+Clause #260: 
+~x76
+Clause #262: 
+~x357
+Clause #264: 
+ x7
+Clause #266: 
+ x175 &  x264
+Clause #268: 
+ x235 &  x334 & ~x51 & ~x113
+Clause #270: 
+ x262
+Clause #272: 
+ x122 & ~x98
+Clause #274: 
+ x70 & ~x97
+Clause #276: 
+ x43 &  x220 &  x262 & ~x38
+Clause #278: 
+ x43 &  x72
+Clause #280: 
+ x176
+Clause #282: 
+ x345
+Clause #284: 
+ x15 &  x94 &  x216 &  x326 &  x331 & ~x0 & ~x103 & ~x120 & ~x190 & ~x205
+Clause #286: 
+ x88 &  x234
+Clause #288: 
+ x56 &  x134 &  x265 & ~x0 & ~x105 & ~x143 & ~x180
+Clause #290: 
+ x33 &  x135 & ~x174 & ~x180 & ~x230
+Clause #292: 
+ x200 & ~x156
+Clause #294: 
+ x150 &  x214 &  x233 &  x235 &  x274 & ~x1 & ~x62 & ~x126 & ~x174 & ~x244 & ~x284 & ~x351
+Clause #296: 
+ x125 &  x192 &  x194 &  x202
+Clause #298: 
+ x175 & ~x114 & ~x292
+
+Class 2 Negative Clauses:
+Clause #1: 
+~x324
+Clause #3: 
+
+Clause #5: 
+~x135
+Clause #7: 
+ x190 & ~x314
+Clause #9: 
+ x51 &  x157 & ~x269
+Clause #11: 
+~x90
+Clause #13: 
+~x217
+Clause #15: 
+ x51 &  x113
+Clause #17: 
+ x17 &  x29 &  x53 &  x115 &  x117 &  x250 &  x252 & ~x262 & ~x265
+Clause #19: 
+ x145 &  x148 & ~x1 & ~x8 & ~x67 & ~x128 & ~x234
+Clause #21: 
+ x78 & ~x32 & ~x89 & ~x168 & ~x193
+Clause #23: 
+ x51 &  x109
+Clause #25: 
+ x111 &  x113 &  x115 &  x190
+Clause #27: 
+~x22 & ~x235
+Clause #29: 
+ x113 & ~x71
+Clause #31: 
+ x53 &  x71 &  x97 &  x133 &  x170 &  x174 &  x228 &  x232 & ~x148
+Clause #33: 
+ x217 &  x355 & ~x134 & ~x234 & ~x283 & ~x326
+Clause #35: 
+ x115 &  x318 & ~x247
+Clause #37: 
+ x105
+Clause #39: 
+ x50 &  x52
+Clause #41: 
+ x50 &  x51 &  x172 & ~x20 & ~x269
+Clause #43: 
+ x62
+Clause #45: 
+ x109 &  x188
+Clause #47: 
+ x110
+Clause #49: 
+~x34 & ~x89 & ~x195
+Clause #51: 
+ x305
+Clause #53: 
+ x171
+Clause #55: 
+~x275
+Clause #57: 
+~x32 & ~x212 & ~x214 & ~x322 & ~x329
+Clause #59: 
+ x39 &  x319 & ~x3 & ~x21 & ~x31 & ~x63 & ~x185 & ~x193 & ~x204
+Clause #61: 
+ x105 & ~x195 & ~x310
+Clause #63: 
+ x108
+Clause #65: 
+ x231 & ~x148
+Clause #67: 
+ x109
+Clause #69: 
+ x51 &  x111 &  x113 &  x115 &  x357
+Clause #71: 
+ x110 &  x130
+Clause #73: 
+ x109
+Clause #75: 
+ x53 &  x152 & ~x262
+Clause #77: 
+ x180
+Clause #79: 
+ x174 & ~x148 & ~x293
+Clause #81: 
+ x47
+Clause #83: 
+~x268
+Clause #85: 
+ x19 &  x113 &  x189 &  x198 &  x337 & ~x81 & ~x265
+Clause #87: 
+ x147 & ~x57 & ~x349
+Clause #89: 
+~x68 & ~x87 & ~x323 & ~x326 & ~x345 & ~x350
+Clause #91: 
+ x284
+Clause #93: 
+ x18 &  x29 &  x31 &  x75 &  x76 &  x77 &  x94 &  x97 &  x111 &  x112 &  x113 &  x114 &  x136 &  x199 &  x217 &  x219 &  x259 &  x317 &  x333 &  x336 &  x351 &  x352 &  x357 &  x358 & ~x80 & ~x123 & ~x162 & ~x262 & ~x267 & ~x325 & ~x341
+Clause #95: 
+ x287 &  x288
+Clause #97: 
+ x190 &  x250 & ~x100 & ~x121
+Clause #99: 
+ x171
+Clause #101: 
+ x108 &  x110
+Clause #103: 
+ x77 & ~x89 & ~x213
+Clause #105: 
+ x111 & ~x275
+Clause #107: 
+ x52 &  x53 &  x114 &  x157 & ~x84 & ~x164 & ~x260 & ~x263 & ~x269 & ~x270
+Clause #109: 
+ x215 & ~x234
+Clause #111: 
+ x50 &  x53 &  x128 &  x171 &  x228 & ~x20 & ~x163
+Clause #113: 
+~x275
+Clause #115: 
+ x106
+Clause #117: 
+ x284
+Clause #119: 
+ x51 &  x52 &  x172
+Clause #121: 
+~x175 & ~x268
+Clause #123: 
+~x198
+Clause #125: 
+ x297 & ~x31 & ~x32 & ~x80 & ~x89 & ~x162 & ~x192 & ~x242
+Clause #127: 
+~x79
+Clause #129: 
+~x31 & ~x32 & ~x88 & ~x121 & ~x193
+Clause #131: 
+ x64 &  x185 &  x204
+Clause #133: 
+ x154 &  x279 &  x317 &  x357 &  x358 & ~x24 & ~x32 & ~x43 & ~x56 & ~x80 & ~x81 & ~x86 & ~x88 & ~x193 & ~x232
+Clause #135: 
+ x271 & ~x40 & ~x95 & ~x181 & ~x234 & ~x326
+Clause #137: 
+ x113 &  x147 & ~x135
+Clause #139: 
+~x87 & ~x195 & ~x196
+Clause #141: 
+ x110
+Clause #143: 
+
+Clause #145: 
+ x108
+Clause #147: 
+ x96 &  x117 &  x133 &  x231 &  x337 & ~x80
+Clause #149: 
+
+Clause #151: 
+~x32 & ~x70 & ~x93
+Clause #153: 
+~x177 & ~x235
+Clause #155: 
+ x8
+Clause #157: 
+ x248 & ~x316
+Clause #159: 
+ x26
+Clause #161: 
+ x144 &  x145 & ~x27 & ~x176 & ~x214 & ~x234
+Clause #163: 
+ x113 & ~x56 & ~x132 & ~x175
+Clause #165: 
+~x175 & ~x234 & ~x235
+Clause #167: 
+~x159 & ~x194
+Clause #169: 
+ x110
+Clause #171: 
+ x108
+Clause #173: 
+ x52 &  x108
+Clause #175: 
+~x32 & ~x33 & ~x56 & ~x247
+Clause #177: 
+~x23 & ~x32 & ~x87 & ~x192 & ~x193 & ~x213 & ~x214 & ~x329 & ~x346 & ~x348
+Clause #179: 
+ x115 &  x171 &  x292 & ~x85
+Clause #181: 
+ x110 & ~x279 & ~x299
+Clause #183: 
+~x32 & ~x33 & ~x72 & ~x213 & ~x231 & ~x245 & ~x326
+Clause #185: 
+ x283
+Clause #187: 
+ x44
+Clause #189: 
+ x51 &  x53 &  x111 &  x113 &  x114 & ~x262 & ~x263
+Clause #191: 
+~x192 & ~x349
+Clause #193: 
+ x50 & ~x86 & ~x269
+Clause #195: 
+ x287 & ~x271
+Clause #197: 
+ x111 &  x113 &  x189
+Clause #199: 
+~x193
+Clause #201: 
+~x137
+Clause #203: 
+ x231 & ~x87
+Clause #205: 
+ x143
+Clause #207: 
+ x156 &  x157 &  x252 &  x259 &  x271 &  x297 &  x318 &  x338 & ~x20 & ~x40 & ~x48 & ~x69 & ~x104 & ~x107 & ~x123 & ~x127 & ~x129 & ~x181 & ~x183 & ~x209 & ~x211 & ~x224 & ~x240 & ~x247 & ~x304 & ~x320 & ~x347 & ~x349
+Clause #209: 
+~x32 & ~x33 & ~x57 & ~x70 & ~x88 & ~x89 & ~x120 & ~x184 & ~x193 & ~x212 & ~x321
+Clause #211: 
+ x50 &  x52 &  x54 &  x170 & ~x86 & ~x203 & ~x262
+Clause #213: 
+ x157 & ~x30 & ~x32 & ~x33 & ~x86 & ~x87 & ~x123 & ~x173 & ~x194
+Clause #215: 
+ x143
+Clause #217: 
+ x111 & ~x214
+Clause #219: 
+ x343
+Clause #221: 
+ x112
+Clause #223: 
+ x49 &  x111 &  x199 &  x358 & ~x45 & ~x221
+Clause #225: 
+~x33
+Clause #227: 
+~x193
+Clause #229: 
+~x34 & ~x88
+Clause #231: 
+ x293 & ~x24 & ~x32 & ~x56 & ~x71 & ~x72 & ~x83 & ~x193 & ~x213
+Clause #233: 
+ x46 &  x108 &  x124 &  x308
+Clause #235: 
+ x51 &  x110
+Clause #237: 
+ x19 &  x112 &  x114 &  x145 &  x147 &  x154 &  x219 &  x271 &  x318 &  x339 & ~x3 & ~x14 & ~x43 & ~x46 & ~x122 & ~x128 & ~x134 & ~x143 & ~x168 & ~x185 & ~x262 & ~x265 & ~x326 & ~x345 & ~x349
+Clause #239: 
+ x145 & ~x177
+Clause #241: 
+ x52 &  x350 & ~x269
+Clause #243: 
+ x218 &  x317 & ~x46 & ~x65 & ~x134 & ~x229 & ~x234 & ~x243 & ~x280 & ~x326 & ~x328 & ~x330
+Clause #245: 
+ x17 &  x18 &  x59 &  x179 &  x271 &  x272 &  x278 &  x315 &  x316 &  x317 & ~x0 & ~x22 & ~x68 & ~x72 & ~x85 & ~x86 & ~x87 & ~x104 & ~x166 & ~x167 & ~x168 & ~x169 & ~x181 & ~x188 & ~x206 & ~x209 & ~x212 & ~x213 & ~x225 & ~x226 & ~x227 & ~x232 & ~x262 & ~x281 & ~x327 & ~x328 & ~x341 & ~x349
+Clause #247: 
+
+Clause #249: 
+ x49 &  x52 &  x172
+Clause #251: 
+~x34 & ~x126 & ~x245
+Clause #253: 
+ x44
+Clause #255: 
+ x53 &  x113
+Clause #257: 
+ x51 &  x52 &  x115 &  x231
+Clause #259: 
+
+Clause #261: 
+ x98 &  x157 &  x198 &  x358 & ~x30 & ~x33 & ~x70 & ~x81 & ~x82 & ~x88 & ~x89 & ~x90 & ~x121 & ~x193 & ~x194 & ~x195 & ~x330
+Clause #263: 
+ x49 &  x52 &  x228 & ~x271
+Clause #265: 
+~x86 & ~x87 & ~x235
+Clause #267: 
+ x147 &  x179 &  x256 &  x316 &  x338 & ~x6 & ~x8 & ~x71 & ~x72 & ~x87 & ~x89 & ~x110 & ~x212 & ~x214 & ~x303 & ~x324
+Clause #269: 
+ x303
+Clause #271: 
+ x30 &  x190 & ~x245 & ~x268
+Clause #273: 
+ x114 &  x286
+Clause #275: 
+~x33 & ~x64 & ~x81 & ~x121 & ~x135 & ~x189 & ~x214
+Clause #277: 
+ x286 & ~x234
+Clause #279: 
+ x24 &  x108
+Clause #281: 
+ x53 &  x352 & ~x268
+Clause #283: 
+ x47
+Clause #285: 
+~x135 & ~x297
+Clause #287: 
+~x235
+Clause #289: 
+
+Clause #291: 
+~x92 & ~x252
+Clause #293: 
+
+Clause #295: 
+ x285 &  x287 &  x288
+Clause #297: 
+~x37
+Clause #299: 
+~x87 & ~x195
+
+Class 3 Positive Clauses:
+Clause #0: 
+~x52
+Clause #2: 
+ x28 &  x29 &  x38 &  x48 &  x54 &  x108 &  x110 &  x126 &  x178 &  x205 &  x207 &  x233 &  x254 &  x358 & ~x100 & ~x263 & ~x340 & ~x345 & ~x347
+Clause #4: 
+ x52 &  x59 &  x64 &  x112 &  x127 &  x232 & ~x120 & ~x143 & ~x151 & ~x263 & ~x340
+Clause #6: 
+ x12 &  x16 &  x19 &  x33 &  x55 &  x113 &  x117 &  x118 &  x124 &  x125 &  x126 &  x172 &  x204 &  x205 &  x206 &  x218 &  x237 &  x247 &  x257 &  x258 &  x354 &  x356 & ~x145 & ~x153 & ~x154 & ~x157 & ~x263 & ~x280 & ~x340 & ~x343
+Clause #8: 
+~x145 & ~x342 & ~x346 & ~x347
+Clause #10: 
+~x277
+Clause #12: 
+ x211 &  x330 &  x348 & ~x151 & ~x269 & ~x271 & ~x272
+Clause #14: 
+ x36 &  x37 &  x49 &  x54 &  x70 &  x71 &  x97 &  x119 &  x209 &  x219 &  x319 &  x328 &  x336 & ~x40 & ~x102 & ~x151 & ~x242 & ~x269 & ~x272
+Clause #16: 
+ x19 &  x29 &  x32 &  x39 &  x46 &  x53 &  x54 &  x59 &  x108 &  x112 &  x116 &  x130 &  x132 &  x139 &  x175 &  x187 &  x206 &  x219 &  x235 &  x293 & ~x101 & ~x141 & ~x151 & ~x153 & ~x264 & ~x342
+Clause #18: 
+ x19 & ~x0 & ~x9 & ~x48 & ~x88 & ~x173 & ~x188 & ~x190 & ~x224 & ~x248 & ~x343
+Clause #20: 
+ x153 & ~x12 & ~x13 & ~x61 & ~x80 & ~x172
+Clause #22: 
+ x358 & ~x44 & ~x106 & ~x189 & ~x251 & ~x340 & ~x345
+Clause #24: 
+ x32 &  x34 &  x55 &  x104 &  x109 &  x110 &  x137 &  x165 &  x258 &  x351 &  x353 & ~x141 & ~x151 & ~x154
+Clause #26: 
+ x37 &  x159 &  x212 &  x232 &  x359 & ~x43 & ~x102 & ~x269
+Clause #28: 
+ x18 &  x55 &  x74 &  x97 &  x128 &  x130 &  x137 &  x159 &  x215 &  x228 &  x232 &  x335 & ~x81 & ~x142 & ~x202 & ~x220 & ~x242 & ~x269 & ~x282 & ~x340
+Clause #30: 
+ x58 &  x159 &  x356 & ~x43 & ~x105 & ~x107 & ~x161 & ~x183 & ~x269 & ~x272
+Clause #32: 
+~x92 & ~x251
+Clause #34: 
+ x28 &  x31 &  x112 &  x125 &  x165 &  x172 &  x205 &  x216 & ~x153 & ~x262
+Clause #36: 
+ x110 &  x205
+Clause #38: 
+ x299 & ~x89 & ~x188 & ~x195
+Clause #40: 
+~x233
+Clause #42: 
+~x345
+Clause #44: 
+ x138 &  x139 &  x159 & ~x84 & ~x140 & ~x141 & ~x201 & ~x202 & ~x242
+Clause #46: 
+~x88 & ~x112 & ~x134
+Clause #48: 
+ x37 &  x78 &  x95 &  x238 & ~x264 & ~x347
+Clause #50: 
+ x22 &  x32 &  x112 &  x159 &  x207 &  x213 &  x225 &  x226
+Clause #52: 
+ x109 &  x205 &  x351 & ~x151 & ~x154
+Clause #54: 
+ x48 &  x127 &  x317 & ~x153 & ~x344
+Clause #56: 
+ x284 & ~x101
+Clause #58: 
+ x302
+Clause #60: 
+~x16
+Clause #62: 
+ x322
+Clause #64: 
+
+Clause #66: 
+~x190 & ~x195 & ~x249
+Clause #68: 
+ x136 &  x219 &  x332 & ~x141 & ~x244 & ~x268 & ~x269
+Clause #70: 
+ x110 &  x117 &  x228 &  x278
+Clause #72: 
+~x89 & ~x340 & ~x347
+Clause #74: 
+ x30 &  x213 & ~x340 & ~x347
+Clause #76: 
+
+Clause #78: 
+~x16
+Clause #80: 
+ x27 &  x28 &  x49 &  x53 &  x110 &  x112 &  x114 &  x124 &  x129 &  x130 &  x137 &  x205 &  x231 & ~x1 & ~x151 & ~x153 & ~x263 & ~x283 & ~x340
+Clause #82: 
+ x199 & ~x33 & ~x86 & ~x101 & ~x126 & ~x164 & ~x189 & ~x190 & ~x192 & ~x206 & ~x211 & ~x244 & ~x248 & ~x249
+Clause #84: 
+~x14
+Clause #86: 
+ x30 &  x35 &  x55 &  x110 &  x129 &  x138 &  x208 &  x219 &  x232 &  x233 &  x256 &  x257 &  x334 & ~x140 & ~x346 & ~x347
+Clause #88: 
+ x8 &  x71 &  x110 &  x130 &  x138 & ~x323
+Clause #90: 
+ x256 & ~x288 & ~x347
+Clause #92: 
+~x12 & ~x192
+Clause #94: 
+~x28 & ~x333 & ~x342 & ~x347
+Clause #96: 
+ x97 & ~x12 & ~x42 & ~x89 & ~x90
+Clause #98: 
+ x19 &  x57 &  x99 & ~x1 & ~x7 & ~x84 & ~x85 & ~x87 & ~x88 & ~x107 & ~x108 & ~x121 & ~x123 & ~x124 & ~x160 & ~x165 & ~x167 & ~x169 & ~x183 & ~x188 & ~x189 & ~x202 & ~x241 & ~x243 & ~x247 & ~x248 & ~x320
+Clause #100: 
+ x322 & ~x87
+Clause #102: 
+ x78 &  x118 &  x153 &  x159 &  x219 &  x239 &  x352 & ~x7 & ~x88 & ~x92 & ~x105 & ~x107 & ~x163 & ~x186 & ~x221
+Clause #104: 
+~x18
+Clause #106: 
+~x12 & ~x88 & ~x343
+Clause #108: 
+ x180
+Clause #110: 
+ x205
+Clause #112: 
+ x10 &  x12 &  x13 &  x17 &  x18 &  x52 &  x59 &  x69 &  x70 &  x72 &  x75 &  x78 &  x79 &  x96 &  x99 &  x112 &  x138 &  x175 &  x176 &  x178 &  x198 &  x199 &  x212 &  x213 &  x215 &  x216 &  x232 &  x234 &  x236 &  x238 &  x259 &  x331 &  x337 &  x339 &  x349 &  x354 & ~x20 & ~x80 & ~x81 & ~x84 & ~x102 & ~x141 & ~x143 & ~x161 & ~x201 & ~x202 & ~x204 & ~x222 & ~x267 & ~x269 & ~x271 & ~x272 & ~x273 & ~x274 & ~x275 & ~x282 & ~x300
+Clause #114: 
+ x179 & ~x3 & ~x7 & ~x9 & ~x49 & ~x89 & ~x104 & ~x106 & ~x160 & ~x164 & ~x171 & ~x189 & ~x202 & ~x248
+Clause #116: 
+ x259 &  x332 &  x352 &  x354 & ~x88 & ~x106 & ~x107 & ~x185 & ~x189 & ~x203 & ~x220 & ~x224 & ~x268
+Clause #118: 
+ x31 &  x47 &  x165 &  x169 &  x180 &  x207 &  x208 &  x236 & ~x151 & ~x152
+Clause #120: 
+ x39 & ~x2 & ~x3 & ~x43 & ~x81 & ~x160 & ~x187 & ~x188 & ~x192 & ~x224 & ~x250 & ~x251 & ~x262 & ~x280
+Clause #122: 
+~x101 & ~x189 & ~x251 & ~x340
+Clause #124: 
+ x19 &  x97 &  x136 &  x138 &  x176 &  x237 &  x257 &  x259 &  x335 &  x352 & ~x1 & ~x80 & ~x86 & ~x87 & ~x201 & ~x202 & ~x220 & ~x264
+Clause #126: 
+~x14 & ~x189
+Clause #128: 
+~x91
+Clause #130: 
+ x62 &  x108 &  x110 &  x168 &  x213
+Clause #132: 
+ x64 &  x130 &  x168 &  x213 &  x353 & ~x300 & ~x341 & ~x342
+Clause #134: 
+ x19 &  x28 &  x46 &  x72 &  x75 &  x110 &  x130 &  x174 &  x211 &  x225 &  x227 & ~x149
+Clause #136: 
+ x39 & ~x4 & ~x20 & ~x23 & ~x43 & ~x48 & ~x49 & ~x88 & ~x161 & ~x192 & ~x210 & ~x223 & ~x248 & ~x251
+Clause #138: 
+ x149 & ~x187 & ~x195 & ~x203
+Clause #140: 
+ x319
+Clause #142: 
+~x277
+Clause #144: 
+ x58 &  x305 &  x307 & ~x41 & ~x88 & ~x190
+Clause #146: 
+ x178 &  x219 & ~x25 & ~x51 & ~x87 & ~x106 & ~x186
+Clause #148: 
+ x27 &  x33 &  x56 &  x63 &  x95 &  x110 &  x111 &  x168 &  x172 &  x195 &  x205 &  x207 &  x210 &  x226 &  x228 & ~x145 & ~x281
+Clause #150: 
+ x301
+Clause #152: 
+~x3 & ~x9 & ~x81 & ~x86 & ~x105 & ~x107 & ~x161 & ~x170 & ~x172 & ~x184 & ~x191 & ~x195 & ~x231
+Clause #154: 
+ x283 & ~x346
+Clause #156: 
+~x7 & ~x49 & ~x210
+Clause #158: 
+ x9 &  x16 &  x19 &  x112 &  x114 &  x116 &  x127 &  x128 &  x165 &  x171 &  x205 &  x207 &  x208 &  x209 &  x256 &  x334 & ~x141 & ~x145 & ~x146 & ~x154 & ~x281 & ~x342
+Clause #160: 
+~x94 & ~x188 & ~x191 & ~x192 & ~x250
+Clause #162: 
+ x171 &  x299
+Clause #164: 
+ x146 & ~x322
+Clause #166: 
+~x18
+Clause #168: 
+~x51 & ~x87 & ~x174
+Clause #170: 
+~x18 & ~x36
+Clause #172: 
+~x51
+Clause #174: 
+ x74 &  x138 &  x256 &  x304 &  x310 & ~x186 & ~x242 & ~x243
+Clause #176: 
+ x62 &  x205
+Clause #178: 
+ x48 &  x64 &  x89 &  x110 &  x130 & ~x268
+Clause #180: 
+ x143
+Clause #182: 
+ x194 &  x207 & ~x154
+Clause #184: 
+ x37 &  x54 &  x97 &  x112 &  x133 &  x178 &  x205 &  x214 &  x218 &  x224 &  x357 & ~x1 & ~x141
+Clause #186: 
+ x28 &  x29 &  x128 &  x135 &  x138 &  x176 &  x187 &  x195 &  x205 &  x209 & ~x147 & ~x264
+Clause #188: 
+ x288 & ~x43 & ~x243 & ~x274
+Clause #190: 
+ x62
+Clause #192: 
+ x15 &  x16 &  x55 &  x57 &  x98 &  x135 &  x156 &  x175 &  x177 &  x179 &  x218 &  x258 &  x299 &  x330 &  x331 &  x350 &  x354 &  x356 & ~x20 & ~x40 & ~x60 & ~x82 & ~x84 & ~x100 & ~x101 & ~x141 & ~x143 & ~x161 & ~x202 & ~x222 & ~x242 & ~x260 & ~x261 & ~x263 & ~x266 & ~x268 & ~x269 & ~x271 & ~x275
+Clause #194: 
+ x143 & ~x72 & ~x87
+Clause #196: 
+ x219 & ~x312 & ~x342 & ~x346
+Clause #198: 
+~x153
+Clause #200: 
+ x28 &  x31 &  x48 &  x55 &  x59 &  x115 &  x136 &  x186 &  x205 &  x216 &  x227 &  x231 & ~x153 & ~x154 & ~x263
+Clause #202: 
+ x138 &  x304 & ~x43 & ~x87 & ~x104 & ~x122 & ~x142 & ~x188
+Clause #204: 
+ x19 &  x74 &  x305 &  x309 &  x317
+Clause #206: 
+ x14 &  x39 &  x59 &  x179 &  x216 & ~x141 & ~x184 & ~x187 & ~x273
+Clause #208: 
+ x68 &  x85 &  x113 & ~x260
+Clause #210: 
+ x27 &  x62
+Clause #212: 
+~x334
+Clause #214: 
+~x197
+Clause #216: 
+~x105 & ~x191 & ~x273 & ~x276
+Clause #218: 
+ x16 &  x54 &  x99 &  x133 &  x213 &  x214 &  x218 &  x256 &  x258 &  x356 & ~x20 & ~x103 & ~x107 & ~x146 & ~x164 & ~x265 & ~x280 & ~x321 & ~x344
+Clause #220: 
+ x122
+Clause #222: 
+
+Clause #224: 
+ x168 &  x224
+Clause #226: 
+~x12 & ~x88 & ~x109 & ~x170 & ~x186 & ~x188 & ~x190
+Clause #228: 
+ x348 & ~x276
+Clause #230: 
+~x18 & ~x251
+Clause #232: 
+~x107
+Clause #234: 
+ x118 &  x133 &  x239 &  x256 & ~x306 & ~x324 & ~x346 & ~x347
+Clause #236: 
+ x11 &  x19 &  x37 &  x54 &  x95 &  x97 &  x117 &  x130 &  x334 &  x349 & ~x40 & ~x81 & ~x260 & ~x269 & ~x272 & ~x281 & ~x320
+Clause #238: 
+ x151 & ~x32 & ~x109 & ~x170 & ~x191 & ~x192
+Clause #240: 
+ x76 &  x258 &  x279 &  x351 & ~x243 & ~x262 & ~x272 & ~x274 & ~x340
+Clause #242: 
+ x59 &  x236 &  x351 & ~x9 & ~x48 & ~x88 & ~x101 & ~x187
+Clause #244: 
+ x138 &  x294 & ~x41 & ~x105 & ~x189 & ~x248 & ~x251
+Clause #246: 
+ x203
+Clause #248: 
+ x146 & ~x251
+Clause #250: 
+ x99 & ~x4 & ~x24 & ~x27 & ~x71 & ~x103 & ~x107 & ~x192 & ~x251
+Clause #252: 
+~x12 & ~x141 & ~x192
+Clause #254: 
+~x12 & ~x13 & ~x44
+Clause #256: 
+ x15 &  x55 &  x74 &  x131 &  x136 &  x171 &  x173 &  x198 &  x207 &  x228 &  x279 & ~x149 & ~x264 & ~x324 & ~x340 & ~x342 & ~x344 & ~x346 & ~x347
+Clause #258: 
+ x62 &  x228
+Clause #260: 
+~x106 & ~x195 & ~x213
+Clause #262: 
+~x16
+Clause #264: 
+ x19 &  x138 & ~x88 & ~x106 & ~x124 & ~x210 & ~x247
+Clause #266: 
+ x15 &  x19 &  x32 &  x34 &  x37 &  x38 &  x50 &  x52 &  x54 &  x55 &  x59 &  x71 &  x74 &  x95 &  x112 &  x113 &  x129 &  x130 &  x131 &  x137 &  x159 &  x170 &  x173 &  x176 &  x193 &  x208 &  x210 &  x218 &  x219 &  x227 &  x228 &  x231 &  x233 &  x238 &  x317 &  x334 &  x352 & ~x0 & ~x100 & ~x149 & ~x150 & ~x160 & ~x161 & ~x220 & ~x263 & ~x265 & ~x269 & ~x321 & ~x340
+Clause #268: 
+ x71 &  x97 &  x175 & ~x163 & ~x264 & ~x273 & ~x276 & ~x340
+Clause #270: 
+~x12 & ~x49 & ~x88 & ~x342
+Clause #272: 
+ x48 &  x52 &  x55 &  x56 &  x77 &  x79 &  x113 &  x115 &  x117 &  x125 &  x129 &  x207 &  x228 &  x353 &  x356 & ~x151 & ~x265
+Clause #274: 
+~x2 & ~x87 & ~x88 & ~x92 & ~x141
+Clause #276: 
+ x180
+Clause #278: 
+ x21
+Clause #280: 
+ x154 & ~x164 & ~x188 & ~x248 & ~x290
+Clause #282: 
+ x306 & ~x124 & ~x274
+Clause #284: 
+~x18
+Clause #286: 
+ x11 &  x49 &  x125 &  x126 &  x168 & ~x151 & ~x154
+Clause #288: 
+ x15 &  x17 &  x52 &  x58 &  x59 &  x70 &  x108 &  x109 &  x114 &  x118 &  x130 &  x131 &  x132 &  x133 &  x178 &  x194 &  x208 &  x209 &  x217 &  x232 &  x256 &  x333 &  x336 &  x350 & ~x81 & ~x149 & ~x270 & ~x340
+Clause #290: 
+~x36
+Clause #292: 
+~x277
+Clause #294: 
+ x16 &  x59 &  x99 &  x111 &  x114 &  x118 &  x128 &  x129 &  x137 &  x211 &  x219 &  x228 &  x231 &  x328 &  x349 &  x358 & ~x80 & ~x120 & ~x121 & ~x142 & ~x143 & ~x144 & ~x260 & ~x263 & ~x266 & ~x268 & ~x269
+Clause #296: 
+ x12 &  x46 &  x125 &  x172 &  x228 &  x247 & ~x147 & ~x148 & ~x151 & ~x154
+Clause #298: 
+ x219 &  x283 &  x286 & ~x100 & ~x342
+
+Class 3 Negative Clauses:
+Clause #1: 
+ x192 & ~x26 & ~x166 & ~x209
+Clause #3: 
+~x70 & ~x207
+Clause #5: 
+ x80
+Clause #7: 
+~x74 & ~x128 & ~x165 & ~x209 & ~x227
+Clause #9: 
+ x290 & ~x30
+Clause #11: 
+ x276 &  x337 & ~x74
+Clause #13: 
+ x241 &  x243
+Clause #15: 
+~x138
+Clause #17: 
+~x336
+Clause #19: 
+~x207 & ~x303
+Clause #21: 
+ x18 & ~x354
+Clause #23: 
+ x320 & ~x311
+Clause #25: 
+~x355
+Clause #27: 
+~x154
+Clause #29: 
+~x225 & ~x332
+Clause #31: 
+ x17 &  x90 &  x91 &  x359 & ~x301
+Clause #33: 
+ x40 &  x342
+Clause #35: 
+
+Clause #37: 
+ x141
+Clause #39: 
+ x340
+Clause #41: 
+ x160
+Clause #43: 
+ x84
+Clause #45: 
+ x13 &  x14 &  x31 &  x44 &  x49 &  x72 &  x93 &  x114 &  x132 &  x166 &  x169 &  x171 &  x189 &  x193 &  x196 &  x198 &  x199 &  x214 &  x319 &  x335 & ~x146 & ~x200 & ~x261
+Clause #47: 
+ x88
+Clause #49: 
+ x320
+Clause #51: 
+
+Clause #53: 
+ x3 &  x13 &  x189 & ~x325
+Clause #55: 
+ x44 &  x90 &  x341
+Clause #57: 
+ x82
+Clause #59: 
+ x18 &  x267
+Clause #61: 
+~x53
+Clause #63: 
+ x344 & ~x303
+Clause #65: 
+~x352
+Clause #67: 
+~x257
+Clause #69: 
+ x90 &  x182
+Clause #71: 
+~x57
+Clause #73: 
+ x1 &  x164
+Clause #75: 
+ x152 & ~x50 & ~x166 & ~x226
+Clause #77: 
+ x1
+Clause #79: 
+
+Clause #81: 
+
+Clause #83: 
+ x2
+Clause #85: 
+ x1
+Clause #87: 
+~x54
+Clause #89: 
+ x152 & ~x37 & ~x228 & ~x262
+Clause #91: 
+ x175 & ~x23 & ~x111 & ~x209 & ~x351
+Clause #93: 
+ x153 & ~x27 & ~x128 & ~x174 & ~x209 & ~x302
+Clause #95: 
+ x102
+Clause #97: 
+~x97
+Clause #99: 
+
+Clause #101: 
+
+Clause #103: 
+ x90 & ~x293
+Clause #105: 
+ x2
+Clause #107: 
+~x315
+Clause #109: 
+ x3 &  x90
+Clause #111: 
+ x90 &  x192 & ~x284 & ~x310
+Clause #113: 
+ x78 & ~x26 & ~x30 & ~x46 & ~x110 & ~x166 & ~x227 & ~x284
+Clause #115: 
+ x88 &  x91 &  x150 & ~x240
+Clause #117: 
+~x176
+Clause #119: 
+ x196 &  x297 & ~x285
+Clause #121: 
+ x251 & ~x70
+Clause #123: 
+ x58 & ~x8 & ~x181 & ~x209 & ~x282 & ~x284
+Clause #125: 
+ x78 &  x155 &  x259 &  x318 & ~x10 & ~x22 & ~x70 & ~x166 & ~x168 & ~x225 & ~x284 & ~x285 & ~x286
+Clause #127: 
+ x321
+Clause #129: 
+ x90 &  x198 &  x290
+Clause #131: 
+ x153 & ~x209 & ~x226 & ~x231 & ~x302
+Clause #133: 
+ x4 &  x5 &  x8 &  x19 &  x25 &  x44 &  x58 &  x68 &  x91 &  x237 & ~x322 & ~x343
+Clause #135: 
+ x87
+Clause #137: 
+ x1
+Clause #139: 
+ x282 &  x345
+Clause #141: 
+~x148 & ~x149
+Clause #143: 
+~x23 & ~x70 & ~x283
+Clause #145: 
+ x2 &  x44
+Clause #147: 
+ x87 &  x88 & ~x331
+Clause #149: 
+ x88 &  x91 &  x151
+Clause #151: 
+~x126 & ~x137
+Clause #153: 
+~x127 & ~x162 & ~x168 & ~x181 & ~x207 & ~x302
+Clause #155: 
+ x40
+Clause #157: 
+ x4 &  x244 &  x251 &  x269 &  x334
+Clause #159: 
+~x317
+Clause #161: 
+ x18 &  x293 & ~x128 & ~x209
+Clause #163: 
+ x31 &  x46 &  x56 &  x192 &  x193 &  x347
+Clause #165: 
+ x42
+Clause #167: 
+ x81
+Clause #169: 
+ x47 &  x65 &  x90 &  x106 &  x244
+Clause #171: 
+ x91 &  x185 &  x345 & ~x306
+Clause #173: 
+
+Clause #175: 
+
+Clause #177: 
+~x114 & ~x165
+Clause #179: 
+ x153 &  x290 &  x298
+Clause #181: 
+ x4 &  x8 &  x190 &  x251 & ~x180 & ~x181
+Clause #183: 
+ x268 & ~x282 & ~x283
+Clause #185: 
+~x52 & ~x53 & ~x212
+Clause #187: 
+ x102
+Clause #189: 
+ x91 &  x150
+Clause #191: 
+~x6 & ~x32 & ~x169 & ~x177 & ~x261
+Clause #193: 
+ x3
+Clause #195: 
+ x155 & ~x66 & ~x74 & ~x288
+Clause #197: 
+ x264
+Clause #199: 
+ x80
+Clause #201: 
+
+Clause #203: 
+~x57
+Clause #205: 
+ x11 &  x71 &  x91 &  x93 &  x257 &  x314 & ~x181
+Clause #207: 
+ x2
+Clause #209: 
+~x237
+Clause #211: 
+ x4 &  x90
+Clause #213: 
+~x214 & ~x256
+Clause #215: 
+ x44 &  x312
+Clause #217: 
+ x91 & ~x248
+Clause #219: 
+ x4 &  x5 &  x15 &  x53 &  x99 &  x137 &  x158 &  x167 &  x186 &  x243 &  x245 &  x249 &  x253 & ~x100 & ~x152 & ~x322 & ~x341
+Clause #221: 
+ x81
+Clause #223: 
+~x30
+Clause #225: 
+ x295 & ~x70
+Clause #227: 
+ x141 &  x340
+Clause #229: 
+ x151 &  x316 & ~x22 & ~x166 & ~x200 & ~x209 & ~x227 & ~x284 & ~x285 & ~x286 & ~x301 & ~x302
+Clause #231: 
+ x12 &  x130 &  x176 &  x179 &  x215 &  x275 &  x278 &  x290 & ~x221 & ~x266
+Clause #233: 
+
+Clause #235: 
+
+Clause #237: 
+ x1
+Clause #239: 
+~x257
+Clause #241: 
+ x156 &  x290 & ~x69 & ~x188 & ~x226
+Clause #243: 
+~x237
+Clause #245: 
+~x8 & ~x70 & ~x127 & ~x226 & ~x286
+Clause #247: 
+ x4 &  x182
+Clause #249: 
+~x116
+Clause #251: 
+ x340
+Clause #253: 
+~x159
+Clause #255: 
+
+Clause #257: 
+~x117
+Clause #259: 
+ x239 &  x276 &  x312 &  x314 & ~x41 & ~x81 & ~x84 & ~x220 & ~x242 & ~x261 & ~x283 & ~x302 & ~x323
+Clause #261: 
+ x41
+Clause #263: 
+ x14 & ~x70
+Clause #265: 
+ x273 & ~x26 & ~x209 & ~x349
+Clause #267: 
+ x338 & ~x207
+Clause #269: 
+ x80
+Clause #271: 
+ x161
+Clause #273: 
+ x274 & ~x127 & ~x223 & ~x353
+Clause #275: 
+ x154 &  x290 &  x298 & ~x6 & ~x65 & ~x69 & ~x132 & ~x181 & ~x208 & ~x230 & ~x231
+Clause #277: 
+ x24 &  x96 &  x119 &  x244 &  x313 & ~x200
+Clause #279: 
+~x357
+Clause #281: 
+ x142
+Clause #283: 
+ x91 &  x199 &  x288 &  x334 &  x335 &  x338 & ~x181 & ~x301 & ~x320 & ~x341
+Clause #285: 
+ x44 &  x223
+Clause #287: 
+ x4 &  x8 &  x27 &  x90 &  x92 &  x93 &  x195 &  x244 &  x249 & ~x120 & ~x240 & ~x323
+Clause #289: 
+ x2
+Clause #291: 
+ x4 &  x5 &  x14 &  x24 &  x26 &  x78 &  x123 &  x125 &  x185 &  x218 &  x238 &  x243 & ~x143 & ~x155
+Clause #293: 
+~x168
+Clause #295: 
+ x96 &  x192 & ~x3 & ~x102 & ~x144 & ~x245 & ~x284
+Clause #297: 
+ x90 &  x346 & ~x205
+Clause #299: 
+ x290 &  x319 & ~x63 & ~x349

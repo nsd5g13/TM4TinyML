@@ -1,12 +1,15 @@
+# python==3.12.6
+
 import os, sys, random
 import numpy as np
 import preprocessing
 
 from sklearn import datasets
+from keras.datasets import mnist
 
 # dataset name as the argument
 if sys.argv[1].lower() == 'all':
-	all_datasets = ['emg', 'iris', 'sports', 'har', 'digits', 'gesture', 'gas', 'statlog', 'mammography', 'sensorless']
+	all_datasets = ['emg', 'iris', 'sports', 'har', 'digits', 'gesture', 'gas', 'statlog', 'mammography', 'sensorless', 'mnist']
 else:
 	all_datasets = [sys.argv[1].lower()]
 
@@ -16,7 +19,12 @@ if not os.path.exists(r"bool_datasets"):
 
 for dataset in all_datasets:
 	match dataset:
-
+		# ------------- MNIST --------------------------------------------------
+		case "mnist":
+			(X_train, Y_train), (X_test, Y_test) = mnist.load_data()
+			X_train = np.where(X_train.reshape((X_train.shape[0], 28*28)) > 75, 1, 0) 
+			X_test = np.where(X_test.reshape((X_test.shape[0], 28*28)) > 75, 1, 0)
+		
 		# ------------- IRIS ----------------------------------------------------
 		case "iris":
 			iris = datasets.load_iris()
@@ -93,7 +101,8 @@ for dataset in all_datasets:
 			X, Y = preprocessing.Gesture_load(r'TinyML_raw_dataset/Gesture')
 			X = np.array(X)
 			Y = np.array(Y)
-			X, _ = preprocessing.onehot_encoding(X, 8)
+			X, _ = preprocessing.onehot_encoding(X, 10)
+			#X = preprocessing.thermo_encoding(X, 20)
 			X_train, Y_train, X_test, Y_test = preprocessing.DatasetSplit(X, Y, 0.8)
 
 		# --------------- Gas Sensor Array Drift ----------------------------------------

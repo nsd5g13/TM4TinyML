@@ -38,7 +38,7 @@ connection.
 Example usage:
 
     import pyboard
-    pyb = pyboard.Pyboard('/dev/ttyACM0')
+    pyb = pyboard.Pyboard('/dev/ttyACM1')
 
 Or:
 
@@ -55,7 +55,7 @@ Note: if using Python2 then pyb.exec must be written as pyb.exec_.
 To run a script from the local machine on the board and print out the results:
 
     import pyboard
-    pyboard.execfile('test.py', device='/dev/ttyACM0')
+    pyboard.execfile('test.py', device='/dev/ttyACM1')
 
 This script can also be run directly.  To execute a local script, use:
 
@@ -655,7 +655,7 @@ class Pyboard:
 setattr(Pyboard, "exec", Pyboard.exec_)
 
 
-def execfile(filename, device="/dev/ttyACM0", baudrate=115200, user="micro", password="python"):
+def execfile(filename, device="/dev/ttyACM1", baudrate=115200, user="micro", password="python"):
     pyb = Pyboard(device, baudrate, user, password)
     pyb.enter_raw_repl()
     output = pyb.execfile(filename)
@@ -770,7 +770,7 @@ def main():
     cmd_parser.add_argument(
         "-d",
         "--device",
-        default=os.environ.get("PYBOARD_DEVICE", "/dev/ttyACM0"),
+        default=os.environ.get("PYBOARD_DEVICE", "/dev/ttyACM1"),
         help="the serial device or the IP address of the pyboard",
     )
     cmd_parser.add_argument(

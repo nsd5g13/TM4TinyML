@@ -1,4 +1,6 @@
-import time, machine, gc
+import time
+import machine
+import gc
 
 W = 20
 
@@ -20,9 +22,9 @@ for i in range(int(len(datapoints)/W)):
 		W_dps.append(literals)
 	W_datapoints.append(W_dps)
 f.close()
-W_datapoints = W_datapoints[0:1] # number of test samples
+W_datapoints = W_datapoints[0:3] # number of test samples
 
-dataset_mem = gc.mem_alloc()
+#dataset_mem = gc.mem_alloc()
 
 # number of includes for each class
 includes_classes_file = 'redress/statlog_vanilla/no_includes.txt'
@@ -47,10 +49,11 @@ for i in range(number_of_classes):
 	cnt = cnt + includes_per_class[i]
 f.close()
 
+gc.collect()
+
 inferred_class = []
 # W inferences simultaneously
 for datapoints in W_datapoints:
-	gc.collect()
 	start_time = time.time_ns()
 	# initialization
 	cur_class_sum = [0 for i in range(W)]
@@ -58,7 +61,6 @@ for datapoints in W_datapoints:
 
 	# inference
 	for i in range(number_of_classes):
-		gc.collect()
 		cl_output = [1 for j in range(W)]
 		prev_cl = 1
 		cl_polarity = 0
@@ -94,11 +96,14 @@ for datapoints in W_datapoints:
 					class_sum[j] = cur_class_sum[j]
 					classification[j] = i
 		cur_class_sum = [0 for i in range(W)]
+		gc.collect()
+	
 	end_time = time.time_ns()
 	print("In %.2f seconds, predicted class:" %((end_time-start_time)/1000000000))
 	print(classification)
 		
 	inferred_class.extend(classification)
+	gc.collect()
 
 #gc.collect()
-print("Allocated memory: %d Byte" %(gc.mem_alloc()-dataset_mem))
+print("Allocated memory: %d Byte" %gc.mem_alloc())

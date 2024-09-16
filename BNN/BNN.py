@@ -31,7 +31,7 @@ model.compile(optimizer='adam',
               metrics=['accuracy'])
 
 # -------------- training and testing ----------------------------------------------------
-no_epochs = 10
+no_epochs = 100
 model.fit(X_train, Y_train, epochs=no_epochs)
 test_loss, test_acc = model.evaluate(X_test, Y_test)
 print(f"Test accuracy {test_acc * 100:.2f} %")

@@ -195,6 +195,7 @@ def HAR_load(dataset_file_path):
 # -- load Gesture Phase Segmentation dataset ---------------------------------------------------------
 def Gesture_load(dataset_file_path):
 	labels = ['Rest', 'Preparation', 'Stroke', 'Hold', 'Retraction']
+	#labels = ['D', 'P', 'S', 'H', 'R']
 	all_subjects = os.walk(dataset_file_path)
 	all_csv = [x[2] for x in all_subjects][0]
 	all_raw_csv = []

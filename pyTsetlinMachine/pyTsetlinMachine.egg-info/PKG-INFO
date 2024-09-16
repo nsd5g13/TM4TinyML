@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: pyTsetlinMachine
+Version: 0.6.6
+Summary: Implements the Tsetlin Machine, Embedding Tsetlin Machine, Convolutional Tsetlin Machine, Regression Tsetlin Machine, and Weighted Tsetlin Machine, with support for continuous features, multigranularity, clause indexing, drop clause/literal, and literal budget.
+Home-page: https://github.com/cair/pyTsetlinMachine/
+Author: Ole-Christoffer Granmo
+Author-email: ole.granmo@uia.no
+License: MIT
+Keywords: pattern-recognition machine-learning interpretable-machine-learning rule-based-machine-learning propositional-logic tsetlin-machine regression convolution
+License-File: LICENSE
+
+Implements the Tsetlin Machine, Embedding Tsetlin Machine, Convolutional Tsetlin Machine, Regression Tsetlin Machine, and Weighted Tsetlin Machine, with support for continuous features, multigranularity, clause indexing, drop clause/literal, and literal budget.
