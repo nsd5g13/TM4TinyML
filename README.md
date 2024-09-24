@@ -36,14 +36,16 @@ A Tsetlin machine (TM) requires all raw features of a dataset represented in the
 
 Before Booleanizing, download all raw datasets and put the dataset directory at "/TinyML_raw_dataset/".
    ```sh
-   cd DIET/Booleanization
+   cd Booleanization
    python3 booleanization.py [dataset_name]
    ```
 Options for [dataset_name] are emg, gas, gesture, har, mammography, sensorless, sports, statlog and all, where "all" suggests producing Booleanized datasets for all above.
 
 ### Vanilla TM Training
 
-Source code to train a vanilla TM-based model is located in DIET/VanillaTM_training.
+   ```sh
+   cd VanillaTM_training
+   ```
 
    ```sh
    usage: StandardTraining.py clauses T s epochs budget dataset_name
@@ -59,13 +61,14 @@ Source code to train a vanilla TM-based model is located in DIET/VanillaTM_train
 
 Example:
    ```sh
-   cd DIET/VanillaTM_training
    python3 StandardTraining.py 300 14 7.5 200 320 emg
    ```
 
 ### Iterative Training-Excluding for Compressed TM
 
-Source code to use DIET to train a compressed TM is located in DIET/DIET_training.
+   ```sh
+   cd DIET_training
+   ```
 
    ```sh
    usage: diet.py clauses T s epochs epochs_every_exclude budget dataset_name
@@ -82,7 +85,6 @@ Source code to use DIET to train a compressed TM is located in DIET/DIET_trainin
 
 Example:
    ```sh
-   cd DIET/DIET_training
    python3 diet.py 300 14 7.5 200 5 320 emg
    ```
 
@@ -98,9 +100,7 @@ Suggested hyperparameters:
 | sports  | 150     | 12| 4 | 50     | 1                    |
 | statlog | 300     | 16| 3 | 100    | 1                    |
 
-### MicroPython Implementation for On-board Inference
-
-Source code to export TM models for MicroPython-based on-board inference is located at TMtoMicropython/RedressGen.
+### Export TM Models for On-board Inference
 
 Example:
    ```sh
@@ -108,5 +108,36 @@ Example:
    python3 RedressGen.py vanillaORdiet
    ```
 Replace "vanillaORdiet" by "vanilla" or "diet" to generate TM models for vanilla or compressed TM, respectively.
+
+### Train BNN Models and Export Models for On-board Inference
+
+Example:
+   ```sh
+   cd TMtoMicropython
+   python BNN.py dataset_name
+
+ positional argument:
+     dataset_name   Provide the name of the dataset. Options include emg, gas, gesture, har, mammography, sensorless, sports and statlog
+   ```
+
+### On-board Inferece using MicroPython
+
+For TM inference:
+   ```sh
+   cd TMtoMicropython
+   python pyboard.py RedressInference.py
+   ```
+Properly modify the model and sample directories.
+- All model files are exported after TM training and exporting, in "TMtoMicropython/redress"
+- All sample files are generated after TM training, in "VanillaTM_training/log" or "DIET_training/log"
+ 
+For BNN inference:
+   ```sh
+   cd BNN
+   python pyboard.py BNNInference.py
+   ```
+
+Properly modify the model and sample directories.
+- All model and sample files are exported after BNN training, in "BNN/micropython_input"
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
