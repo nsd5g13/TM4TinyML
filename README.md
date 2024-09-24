@@ -98,6 +98,15 @@ Suggested hyperparameters:
 | sports  | 150     | 12| 4 | 50     | 1                    |
 | statlog | 300     | 16| 3 | 100    | 1                    |
 
+### MicroPython Implementation for On-board Inference
 
+Source code to export TM models for MicroPython-based on-board inference is located at TMtoMicropython/RedressGen.
+
+Example:
+   ```sh
+   cd TMtoMicropython
+   python3 RedressGen.py vanillaORdiet
+   ```
+Relace "vanillaORdiet" by "vanilla" or "diet" to generate TM models for vanilla or compressed TM, respectively.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
