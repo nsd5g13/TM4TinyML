@@ -15,9 +15,11 @@ Install pyTsetlinMachine (for Tsetlin Machine training, original source code ava
    ```
 
 Install Larq (an open-source Python library for Binarized Neural Network, available at [https://docs.larq.dev/larq/](https://docs.larq.dev/larq/))
+
 Used versions: python==3.7.13, tensorflow=2.0.0
 
 Build the firmware for a given board to support MicroPython, related documentation available at [https://github.com/micropython/micropython/tree/master](https://github.com/micropython/micropython/tree/master)
+
 Used micron-controller board: STM32F746G-DISCO
 
 ## Usage
