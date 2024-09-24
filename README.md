@@ -107,6 +107,6 @@ Example:
    cd TMtoMicropython
    python3 RedressGen.py vanillaORdiet
    ```
-Relace "vanillaORdiet" by "vanilla" or "diet" to generate TM models for vanilla or compressed TM, respectively.
+Replace "vanillaORdiet" by "vanilla" or "diet" to generate TM models for vanilla or compressed TM, respectively.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
