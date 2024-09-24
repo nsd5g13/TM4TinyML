@@ -18,7 +18,7 @@ Install Larq (an open-source Python library for Binarized Neural Network, availa
 - Used versions: python==3.7.13, tensorflow=2.0.0
 
 Build the firmware for a given board to support MicroPython, related documentation available at [https://github.com/micropython/micropython/tree/master](https://github.com/micropython/micropython/tree/master)
-- Used micron-controller board: STM32F746G-DISCO
+- Used micro-controller board: STM32F746G-DISCO
 
 ## Usage
 
