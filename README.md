@@ -142,6 +142,8 @@ Properly modify the model and sample directories.
 
 
 <!-- PAPER -->
+## Paper
 - S. Duan, R. Shafik, and A. Yakovlev, [“ETHEREAL: Energy-efficient and High-throughput Inference using Compressed Tsetlin Machine,”](https://arxiv.org/abs/2502.05640) arXiv preprint arXiv:2502.05640, 2025.
+-  S.Duan, R. Shafik, and A. Yakovlev, [“ETHEREAL: Energy-efficient and High-throughput Inference using Compressed Tsetlin Machine,”](https://ieeexplore.ieee.org/abstract/document/11121985) in 10th International Workshop on Advances in Sensors and Interfaces, 2025, pp. 1–6.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
