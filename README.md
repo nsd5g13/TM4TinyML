@@ -95,7 +95,7 @@ Suggested hyperparameters:
 | gas	  | 300	    | 12|10 | 200    | 5		    |
 | gesture | 500     | 25|9  | 250    | 25                   |
 | har     | 200     | 14|6  | 250    | 1                    |
-| mammograpy| 50    | 7 |3  | 100    | 1                    |
+| mammography| 50    | 7 |3  | 100    | 1                    |
 | sensorless| 300   | 15| 10| 100    | 4		    |
 | sports  | 150     | 12| 4 | 50     | 1                    |
 | statlog | 300     | 16| 3 | 100    | 1                    |
